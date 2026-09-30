@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "30/09/2026 20:00",
-  "agora": "Aulas de hoje encerradas. Próximo dia: 01/10, com Economia Matemática 2 às 07:30 e reunião de disponibilidade às 17:00.",
+  "atualizado_em": "30/09/2026 20:13",
+  "agora": "Aulas de hoje encerradas. Próximo compromisso: 01/10 às 07:30 — Economia Matemática 2; reunião de disponibilidade às 17:00.",
   "prioridades": [
     {
       "titulo": "Mackenzie — NI1",
@@ -15,28 +15,7 @@
       "detalhe": "01/10, 17:00–17:45, Microsoft Teams."
     }
   ],
-  "agenda": [
-    {
-      "hora": "07:30–09:10",
-      "titulo": "Economia Matemática 2 — EM2 E",
-      "local": "Mackenzie · Sala 506"
-    },
-    {
-      "hora": "17:00–17:45",
-      "titulo": "Reunião sobre Disponibilidade de Horário (Economia)",
-      "local": "Microsoft Teams"
-    },
-    {
-      "hora": "19:20–21:00",
-      "titulo": "TOI W — Tópicos de Otimização e Integração",
-      "local": "Mackenzie · Sala 403"
-    },
-    {
-      "hora": "21:10–22:50",
-      "titulo": "TOI J — Tópicos de Otimização e Integração",
-      "local": "Mackenzie · Sala 506"
-    }
-  ],
+  "agenda": [],
   "atividades": {
     "Preparação de aulas": [
       "Economia Matemática 2 — revisar material de otimização enviado por Katia Nishiyama."
