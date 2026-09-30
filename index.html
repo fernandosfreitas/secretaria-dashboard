@@ -7,14 +7,14 @@
 :root{--bg:#f4f1e9;--ink:#26332f;--muted:#66736e;--green:#cbd9cb;--blue:#e2edf5;--yellow:#f3df9b;--rose:#f0d8d3;--lav:#e7e0ef;--line:#c9d0cb}
 *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
 main{max-width:960px;margin:auto;padding:18px}.top{display:flex;justify-content:space-between;gap:12px;align-items:end;margin-bottom:14px}
-h1{font-size:1.55rem;margin:0}#updated{color:var(--muted);font-size:.88rem}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+h1{font-size:1.55rem;margin:0}#refresh{border:1px solid var(--line);background:#fff;border-radius:12px;padding:10px 14px;font:inherit;font-weight:650;color:var(--ink);cursor:pointer;box-shadow:0 2px 7px #0000000b}#refresh:active{transform:translateY(1px)}#updated{color:var(--muted);font-size:.88rem}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
 .card{border:1px solid var(--line);border-radius:16px;padding:15px;background:#fff;box-shadow:0 3px 10px #0000000c}.wide{grid-column:1/-1}
 .agora{background:var(--green)}.prioridades{background:var(--yellow)}.hoje{background:var(--blue)}.atividades{background:var(--lav)}.comunicacoes{background:var(--rose)}
 h2{font-size:1rem;margin:0 0 9px}p{margin:5px 0;line-height:1.38}.item{padding:8px 0;border-top:1px solid #ffffff80}.item:first-of-type{border-top:0}
 .badge{font-size:.72rem;padding:2px 7px;border-radius:99px;background:#ffffff99;margin-left:5px}.empty{color:var(--muted);font-style:italic}
 @media(max-width:650px){main{padding:10px}.grid{grid-template-columns:1fr}.wide{grid-column:auto}.top{align-items:start;flex-direction:column}h1{font-size:1.3rem}}
 </style></head>
-<body><main><div class="top"><div><h1>Secretária Acadêmica</h1><div id="updated">Carregando…</div></div></div>
+<body><main><div class="top"><div><h1>Secretária Acadêmica</h1><div id="updated">Carregando…</div></div><button id="refresh" type="button" title="Recarregar os dados mais recentes">↻ Atualizar</button></div>
 <div class="grid">
 <section class="card agora wide"><h2>Agora</h2><div id="agora"></div></section>
 <section class="card prioridades"><h2>Prioridades</h2><div id="prioridades"></div></section>
@@ -25,6 +25,7 @@ h2{font-size:1rem;margin:0 0 9px}p{margin:5px 0;line-height:1.38}.item{padding:8
 <section class="card comunicacoes wide"><h2>Comunicações</h2><div id="comunicacoes"></div></section>
 </div></main>
 <script>
+document.getElementById('refresh').addEventListener('click',()=>location.reload());
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const list=(id,a,fn)=>document.getElementById(id).innerHTML=(a&&a.length?a.map(fn).join(''):'<p class="empty">Nenhum item.</p>');
 fetch('dados.json?'+Date.now()).then(r=>r.json()).then(d=>{
