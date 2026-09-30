@@ -1,0 +1,51 @@
+{
+  "atualizado_em": "30/09/2026 09:42",
+  "agora": "Dashboard inicial publicado. A Secretária atualizará este estado quando você solicitar “Atualizar Dashboard”.",
+  "prioridades": [],
+  "agenda": [
+    {
+      "hora": "17:20–19:00",
+      "titulo": "NA4410 — Estatística",
+      "local": "FEI · Sala B221"
+    },
+    {
+      "hora": "19:20–21:00",
+      "titulo": "MAG120 — Vetores e Geometria Analítica",
+      "local": "FEI · Sala A212"
+    },
+    {
+      "hora": "21:10–22:50",
+      "titulo": "MAE120 — Estatística",
+      "local": "FEI · Sala A209"
+    }
+  ],
+  "atividades": {
+    "Preparação de aulas": [
+      "Economia Matemática 2 — revisar material de otimização enviado por Katia Nishiyama."
+    ],
+    "Correção de provas": [
+      "MAM130",
+      "MAC200",
+      "NA4410",
+      "MAE120",
+      "TOI J",
+      "Economia Matemática 2",
+      "Economia Matemática 1",
+      "MAE100"
+    ]
+  },
+  "a_fazer": [
+    "Lançar notas de TOI das turmas J e W."
+  ],
+  "aguardando": [
+    "MAC210 — registro de 25/09 aguardando liberação do sistema."
+  ],
+  "comunicacoes": {
+    "E-mail": [
+      "Mackenzie — reunião sobre disponibilidade de horário: 01/10, 20:00–20:45, Teams."
+    ],
+    "WhatsApp": [
+      "Sem nova ação pendente no resumo institucional mais recente."
+    ]
+  }
+}
