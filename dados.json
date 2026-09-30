@@ -1,7 +1,20 @@
 {
-  "atualizado_em": "30/09/2026 — teste de sincronização",
-  "agora": "TESTE DE SINCRONIZAÇÃO: atualização enviada pela Secretária Acadêmica. Se esta mensagem aparecer no notebook e no celular, o sistema está funcionando.",
-  "prioridades": [],
+  "atualizado_em": "30/09/2026 15:16",
+  "agora": "Próximo compromisso confirmado: NA4410 às 17:20, FEI, sala B221.",
+  "prioridades": [
+    {
+      "titulo": "Aulas desta noite",
+      "detalhe": "NA4410 17:20; MAG120 19:20; MAE120 21:10 — compromissos confirmados no Calendar."
+    },
+    {
+      "titulo": "Correções em aberto",
+      "detalhe": "MAM130, MAC200, NA4410, MAE120, TOI J, Economia Matemática 2, Economia Matemática 1 e MAE100."
+    },
+    {
+      "titulo": "Amanhã: reunião de disponibilidade",
+      "detalhe": "Reunião do Mackenzie em 01/10. O convite informa 20:00–20:45; o Calendar está exibindo 17:00–17:45, portanto há divergência de horário a confirmar."
+    }
+  ],
   "agenda": [
     {
       "hora": "17:20–19:00",
@@ -32,20 +45,26 @@
       "Economia Matemática 2",
       "Economia Matemática 1",
       "MAE100"
+    ],
+    "Próxima prova": [
+      "MAC210 — aplicação em 02/10 às 15:50."
     ]
   },
   "a_fazer": [
-    "Lançar notas de TOI das turmas J e W."
+    "Economia Matemática 1 — lançar no sistema as notas do Teste 2, se ainda não lançado."
   ],
   "aguardando": [
     "MAC210 — registro de 25/09 aguardando liberação do sistema."
   ],
   "comunicacoes": {
     "E-mail": [
-      "Mackenzie — reunião sobre disponibilidade de horário: 01/10, 20:00–20:45, Teams."
+      "Mackenzie — reunião sobre disponibilidade de horário em 01/10: convite informa 20:00–20:45 no Teams; há divergência com o horário exibido no Calendar.",
+      "Mackenzie — lançamento de livros da Editora Mackenzie em 06/10 às 17h (informativo)."
     ],
     "WhatsApp": [
-      "Sem nova ação pendente no resumo institucional mais recente."
+      "Resumo de 30/09 às 12:09: nenhuma ação exigida.",
+      "MackCalculus — divulgado resultado da P1 de Economia Matemática 1 e planilha da NI1 com os testes.",
+      "Cobertura incompleta no grupo Brasil Urgente Paralelo entre 29/09 17:09 e 20:38."
     ]
   }
 }
