@@ -1,30 +1,40 @@
 {
-  "atualizado_em": "30/09/2026 19:04",
-  "agora": "Próximo compromisso confirmado: MAG120 às 19:20, FEI, sala A212; depois MAE120 às 21:10, sala A209.",
+  "atualizado_em": "30/09/2026 22:27",
+  "agora": "Aulas de hoje encerradas. Próximo dia: 01/10, com Economia Matemática 2 às 07:30 e reunião de disponibilidade às 17:00.",
   "prioridades": [
     {
-      "titulo": "Aulas desta noite",
-      "detalhe": "MAG120 19:20–21:00 (A212) e MAE120 21:10–22:50 (A209), confirmadas no Calendar."
+      "titulo": "Mackenzie — NI1",
+      "detalhe": "Prazo institucional: 03/10. Verificar o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI."
     },
     {
-      "titulo": "MAC210 — diário de 25/09",
-      "detalhe": "A FEI informou hoje que o sistema foi liberado para registro. Agora requer seu lançamento."
+      "titulo": "Correções em aberto",
+      "detalhe": "MAM130, MAC200, NA4410, MAE120, Economia Matemática 2 e Economia Matemática 1."
     },
     {
       "titulo": "Amanhã: reunião de disponibilidade",
-      "detalhe": "Confirmada para 01/10, 17:00–17:45, Microsoft Teams."
+      "detalhe": "01/10, 17:00–17:45, Microsoft Teams."
     }
   ],
   "agenda": [
     {
+      "hora": "07:30–09:10",
+      "titulo": "Economia Matemática 2 — EM2 E",
+      "local": "Mackenzie · Sala 506"
+    },
+    {
+      "hora": "17:00–17:45",
+      "titulo": "Reunião sobre Disponibilidade de Horário (Economia)",
+      "local": "Microsoft Teams"
+    },
+    {
       "hora": "19:20–21:00",
-      "titulo": "MAG120 — Vetores e Geometria Analítica",
-      "local": "FEI · Sala A212"
+      "titulo": "TOI W — Tópicos de Otimização e Integração",
+      "local": "Mackenzie · Sala 403"
     },
     {
       "hora": "21:10–22:50",
-      "titulo": "MAE120 — Estatística",
-      "local": "FEI · Sala A209"
+      "titulo": "TOI J — Tópicos de Otimização e Integração",
+      "local": "Mackenzie · Sala 506"
     }
   ],
   "atividades": {
@@ -36,24 +46,37 @@
       "MAC200",
       "NA4410",
       "MAE120",
-      "TOI J",
       "Economia Matemática 2",
-      "Economia Matemática 1",
-      "MAE100"
+      "Economia Matemática 1"
     ],
     "Próxima prova": [
       "MAC210 — aplicação em 02/10 às 15:50."
+    ],
+    "Calendário Mackenzie — próximos marcos": [
+      "03/10 — limite para lançamento da NI1.",
+      "04/11 — Prova Integrada.",
+      "28/11 — limite para lançamento da NI2.",
+      "30/11 a 05/12 — Avaliações Substitutivas.",
+      "07 a 12/12 — Avaliações Finais.",
+      "12/12 — último dia para lançamento das notas finais.",
+      "19/12 — término das atividades acadêmicas."
+    ],
+    "Calendário FEI — próximos marcos": [
+      "03/10 — fim do período de Avaliações Parciais.",
+      "19/11 a 01/12 — Avaliações Finais.",
+      "02 a 05/12 — Atividades Especiais.",
+      "07 a 15/12 — Avaliações Substitutivas.",
+      "18/12 — término do período letivo."
     ]
   },
   "a_fazer": [
-    "MAC210 — lançar no diário o conteúdo de 25/09; sistema liberado pela FEI.",
-    "Economia Matemática 1 — lançar no sistema as notas do Teste 2, se ainda não lançado.",
+    "Mackenzie — conferir e concluir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI até 03/10.",
     "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar."
   ],
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "FEI — sistema liberado para registrar o conteúdo de MAC210 de 25/09.",
+      "FEI — diário de MAC210 de 25/09 já lançado; pendência concluída.",
       "FEI — convite para avaliador de pôsteres do SICFEI 2026 em 22/10; confirmação até 12/10.",
       "Mackenzie — lançamento de livros da Editora Mackenzie em 06/10 às 17h (informativo)."
     ],
@@ -61,6 +84,10 @@
       "Resumo de 30/09 às 18:53: nenhuma nova ação exigida.",
       "Confirmado no grupo: reunião de disponibilidade é 17:00–17:45.",
       "Cobertura parcialmente incompleta em alguns grupos entre 12:09 e o início da leitura."
+    ],
+    "Calendário acadêmico": [
+      "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; Prova Integrada 04/11; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
+      "FEI/SP — avaliações parciais até 03/10; finais 19/11–01/12; atividades especiais 02–05/12; substitutivas 07–15/12; término do período letivo 18/12."
     ]
   }
 }
