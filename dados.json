@@ -1,26 +1,21 @@
 {
-  "atualizado_em": "30/09/2026 15:16",
-  "agora": "Próximo compromisso confirmado: NA4410 às 17:20, FEI, sala B221.",
+  "atualizado_em": "30/09/2026 19:04",
+  "agora": "Próximo compromisso confirmado: MAG120 às 19:20, FEI, sala A212; depois MAE120 às 21:10, sala A209.",
   "prioridades": [
     {
       "titulo": "Aulas desta noite",
-      "detalhe": "NA4410 17:20; MAG120 19:20; MAE120 21:10 — compromissos confirmados no Calendar."
+      "detalhe": "MAG120 19:20–21:00 (A212) e MAE120 21:10–22:50 (A209), confirmadas no Calendar."
     },
     {
-      "titulo": "Correções em aberto",
-      "detalhe": "MAM130, MAC200, NA4410, MAE120, TOI J, Economia Matemática 2, Economia Matemática 1 e MAE100."
+      "titulo": "MAC210 — diário de 25/09",
+      "detalhe": "A FEI informou hoje que o sistema foi liberado para registro. Agora requer seu lançamento."
     },
     {
       "titulo": "Amanhã: reunião de disponibilidade",
-      "detalhe": "Reunião do Mackenzie em 01/10. O convite informa 20:00–20:45; o Calendar está exibindo 17:00–17:45, portanto há divergência de horário a confirmar."
+      "detalhe": "Confirmada para 01/10, 17:00–17:45, Microsoft Teams."
     }
   ],
   "agenda": [
-    {
-      "hora": "17:20–19:00",
-      "titulo": "NA4410 — Estatística",
-      "local": "FEI · Sala B221"
-    },
     {
       "hora": "19:20–21:00",
       "titulo": "MAG120 — Vetores e Geometria Analítica",
@@ -51,20 +46,21 @@
     ]
   },
   "a_fazer": [
-    "Economia Matemática 1 — lançar no sistema as notas do Teste 2, se ainda não lançado."
+    "MAC210 — lançar no diário o conteúdo de 25/09; sistema liberado pela FEI.",
+    "Economia Matemática 1 — lançar no sistema as notas do Teste 2, se ainda não lançado.",
+    "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar."
   ],
-  "aguardando": [
-    "MAC210 — registro de 25/09 aguardando liberação do sistema."
-  ],
+  "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "Mackenzie — reunião sobre disponibilidade de horário em 01/10: convite informa 20:00–20:45 no Teams; há divergência com o horário exibido no Calendar.",
+      "FEI — sistema liberado para registrar o conteúdo de MAC210 de 25/09.",
+      "FEI — convite para avaliador de pôsteres do SICFEI 2026 em 22/10; confirmação até 12/10.",
       "Mackenzie — lançamento de livros da Editora Mackenzie em 06/10 às 17h (informativo)."
     ],
     "WhatsApp": [
-      "Resumo de 30/09 às 12:09: nenhuma ação exigida.",
-      "MackCalculus — divulgado resultado da P1 de Economia Matemática 1 e planilha da NI1 com os testes.",
-      "Cobertura incompleta no grupo Brasil Urgente Paralelo entre 29/09 17:09 e 20:38."
+      "Resumo de 30/09 às 18:53: nenhuma nova ação exigida.",
+      "Confirmado no grupo: reunião de disponibilidade é 17:00–17:45.",
+      "Cobertura parcialmente incompleta em alguns grupos entre 12:09 e o início da leitura."
     ]
   }
 }
