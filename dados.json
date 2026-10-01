@@ -8,7 +8,7 @@
     },
     {
       "titulo": "Correções em aberto",
-      "detalhe": "MAM130, MAC200, NA4410, MAE120, Economia Matemática 2 e Economia Matemática 1. Incluir TOI — turmas J e W."
+      "detalhe": "MAM130, MAC200, NA4410, MAE120, Economia Matemática 2 e Economia Matemática 1."
     },
     {
       "titulo": "Hoje: reunião de disponibilidade",
@@ -51,9 +51,7 @@
       "NA4410",
       "MAE120",
       "Economia Matemática 2",
-      "Economia Matemática 1",
-      "TOI — turma J",
-      "TOI — turma W"
+      "Economia Matemática 1"
     ],
     "Próxima prova": [
       "02/10 às 15:50 — confirmar a disciplina: o painel anterior indicava MAC210, enquanto o quadro informado em 26/09 indicava MAG120."
