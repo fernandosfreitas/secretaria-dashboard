@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "30/09/2026 20:13",
-  "agora": "Aulas de hoje encerradas. Próximo compromisso: 01/10 às 07:30 — Economia Matemática 2; reunião de disponibilidade às 17:00.",
+  "atualizado_em": "01/10/2026 07:30",
+  "agora": "Quinta-feira, 01/10. 07:30–09:10 — Economia Matemática 2, sala 506, Mackenzie. Retomar o método de Lagrange após os exemplos de 29/09. Reunião de disponibilidade às 17:00 e TOI à noite.",
   "prioridades": [
     {
       "titulo": "Mackenzie — NI1",
@@ -8,17 +8,42 @@
     },
     {
       "titulo": "Correções em aberto",
-      "detalhe": "MAM130, MAC200, NA4410, MAE120, Economia Matemática 2 e Economia Matemática 1."
+      "detalhe": "MAM130, MAC200, NA4410, MAE120, Economia Matemática 2 e Economia Matemática 1. Incluir TOI — turmas J e W."
     },
     {
-      "titulo": "Amanhã: reunião de disponibilidade",
-      "detalhe": "01/10, 17:00–17:45, Microsoft Teams."
+      "titulo": "Hoje: reunião de disponibilidade",
+      "detalhe": "17:00–17:45, Microsoft Teams. Horário confirmado na agenda e no resumo do WhatsApp."
     }
   ],
-  "agenda": [],
+  "agenda": [
+    {
+      "hora": "07:30–09:10",
+      "titulo": "Economia Matemática 2 — EM2 E",
+      "local": "Mackenzie · Sala 506"
+    },
+    {
+      "hora": "17:00–17:45",
+      "titulo": "Reunião sobre Disponibilidade de Horário (Economia)",
+      "local": "Microsoft Teams"
+    },
+    {
+      "hora": "19:20–21:00",
+      "titulo": "TOI — turma W",
+      "local": "Mackenzie · Sala 403"
+    },
+    {
+      "hora": "21:10–22:50",
+      "titulo": "TOI — turma J",
+      "local": "Mackenzie · Sala 506"
+    }
+  ],
   "atividades": {
     "Preparação de aulas": [
-      "Economia Matemática 2 — revisar material de otimização enviado por Katia Nishiyama."
+      "Economia Matemática 2 — revisar material de otimização enviado por Katia Nishiyama.",
+      "Economia Matemática 2 — 29/09: início do método de Lagrange, com alguns exemplos. Retomar desse ponto hoje.",
+      "Economia Matemática 1 — 29/09: trigonometria, derivadas de funções trigonométricas e regra do produto.",
+      "TOI W — último registro de 25/09: primeiro exemplo de máximos e mínimos em conjunto fechado triangular.",
+      "TOI J — último registro disponível de 18/09: terminar o exemplo 6, do lucro; confirmar o avanço das aulas posteriores."
     ],
     "Correção de provas": [
       "MAM130",
@@ -26,10 +51,12 @@
       "NA4410",
       "MAE120",
       "Economia Matemática 2",
-      "Economia Matemática 1"
+      "Economia Matemática 1",
+      "TOI — turma J",
+      "TOI — turma W"
     ],
     "Próxima prova": [
-      "MAC210 — aplicação em 02/10 às 15:50."
+      "02/10 às 15:50 — confirmar a disciplina: o painel anterior indicava MAC210, enquanto o quadro informado em 26/09 indicava MAG120."
     ],
     "Calendário Mackenzie — próximos marcos": [
       "03/10 — limite para lançamento da NI1.",
@@ -46,23 +73,35 @@
       "02 a 05/12 — Atividades Especiais.",
       "07 a 15/12 — Avaliações Substitutivas.",
       "18/12 — término do período letivo."
+    ],
+    "Janelas livres de hoje": [
+      "09:10–11:30 — sugestão: correções do Mackenzie e conferência da NI1.",
+      "11:30–13:00 — almoço.",
+      "13:00–17:00 — sugestão: continuar correções e preparar TOI; permanecer no Mackenzie.",
+      "17:45–19:20 — intervalo antes das aulas de TOI."
     ]
   },
   "a_fazer": [
     "Mackenzie — conferir e concluir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI até 03/10.",
-    "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar."
+    "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
+    "TOI — lançar as notas das turmas J e W.",
+    "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação."
   ],
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
+      "FEI/Moodle — nova mensagem de 30/09 sobre o contato com Ariovaldo referente à P1 de Cálculo. Requer verificação e resposta.",
       "FEI — diário de MAC210 de 25/09 já lançado; pendência concluída.",
       "FEI — convite para avaliador de pôsteres do SICFEI 2026 em 22/10; confirmação até 12/10.",
-      "Mackenzie — lançamento de livros da Editora Mackenzie em 06/10 às 17h (informativo)."
+      "Mackenzie — lançamento de livros da Editora Mackenzie em 06/10 às 17h (informativo).",
+      "Mackenzie — resumo diário do Viva Engage de 30/09: informativos, sem nova tarefa identificada."
     ],
     "WhatsApp": [
       "Resumo de 30/09 às 18:53: nenhuma nova ação exigida.",
       "Confirmado no grupo: reunião de disponibilidade é 17:00–17:45.",
-      "Cobertura parcialmente incompleta em alguns grupos entre 12:09 e o início da leitura."
+      "Cobertura parcialmente incompleta em alguns grupos entre 12:09 e o início da leitura.",
+      "FEI — aviso de prova com consulta, sem identificação da disciplina no trecho lido; confirmar apenas se for sua prova.",
+      "Nenhum resumo de WhatsApp de 01/10 localizado nesta consulta; último disponível: 30/09 às 18:53."
     ],
     "Calendário acadêmico": [
       "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; Prova Integrada 04/11; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
