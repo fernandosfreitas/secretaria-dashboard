@@ -1,40 +1,45 @@
 {
-  "atualizado_em": "01/10/2026 18:37",
-  "agora": "Quinta-feira, 01/10. Próximo compromisso confirmado: TOI W às 19:20–21:00, sala 403. Depois, TOI J às 21:10–22:50, sala 506.",
+  "atualizado_em": "02/10/2026 07:03",
+  "agora": "Sexta-feira, 02/10. Primeiro compromisso confirmado: Economia Matemática 1 às 09:20–11:00, sala 508. À tarde, MAC210 na FEI; prova prevista às 15:50. À noite, TOI W e TOI J.",
   "prioridades": [
     {
       "titulo": "Mackenzie — NI1",
       "detalhe": "Prazo institucional: 03/10. Conferir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI."
     },
     {
-      "titulo": "Correções em aberto",
-      "detalhe": "MAM130, MAC200, NA4410 e MAE120."
+      "titulo": "Hoje: prova de MAC210",
+      "detalhe": "Aplicação prevista para 15:50. Blocos de MAC210 confirmados no Calendar, sala A209."
     },
     {
-      "titulo": "Amanhã: MAC210",
-      "detalhe": "Prova prevista para 02/10 às 15:50; os blocos de aula estão confirmados no Calendar, sala A209."
+      "titulo": "Correções em aberto",
+      "detalhe": "MAM130, MAC200, NA4410 e MAE120."
     }
   ],
   "agenda": [
     {
-      "hora": "07:30–09:10",
-      "titulo": "Economia Matemática 2 — EM2 E",
-      "local": "Mackenzie · Sala 506"
+      "hora": "09:20–11:00",
+      "titulo": "Economia Matemática 1 — EM1 E",
+      "local": "Mackenzie · Sala 508"
     },
     {
-      "hora": "17:00–17:45",
-      "titulo": "Reunião sobre Disponibilidade de Horário (Economia)",
-      "local": "Microsoft Teams"
+      "hora": "13:40–15:20",
+      "titulo": "MAC210 — Cálculo Diferencial e Integral",
+      "local": "FEI · Sala A209"
+    },
+    {
+      "hora": "15:30–17:10",
+      "titulo": "MAC210 — Cálculo Diferencial e Integral",
+      "local": "FEI · Sala A209"
     },
     {
       "hora": "19:20–21:00",
       "titulo": "TOI — turma W",
-      "local": "Mackenzie · Sala 403"
+      "local": "Mackenzie · Sala 402"
     },
     {
       "hora": "21:10–22:50",
       "titulo": "TOI — turma J",
-      "local": "Mackenzie · Sala 506"
+      "local": "Mackenzie · Sala 504"
     }
   ],
   "atividades": {
@@ -52,7 +57,7 @@
       "MAE120"
     ],
     "Próxima prova": [
-      "MAC210 — aplicação em 02/10 às 15:50."
+      "MAC210 — aplicação hoje, 02/10, às 15:50."
     ],
     "Calendário Mackenzie — próximos marcos": [
       "03/10 — limite para lançamento da NI1.",
@@ -71,7 +76,9 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "18:37–19:20 — intervalo antes de TOI W."
+      "07:03–09:20 — antes de Economia Matemática 1.",
+      "11:00–13:40 — intervalo antes da FEI; considerar almoço e deslocamento.",
+      "17:10–19:20 — deslocamento FEI → Mackenzie e janela antes de TOI W."
     ],
     "Registro de aula": [
       "Economia Matemática 2 — 01/10: apresentação das notas e vista das provas. Próxima aula: exercícios do método de Lagrange, a partir do Exemplo 2."
@@ -86,15 +93,15 @@
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
+      "Mackenzie — modelos de preenchimento de disponibilidade enviados após a reunião de 01/10; material de referência, sem prazo indicado no e-mail.",
       "FEI/Moodle — mensagem de Gustavo sobre contato com Ariovaldo referente à P1 de Cálculo; requer verificação e resposta.",
       "FEI — convite para avaliador de pôsteres do SICFEI 2026 em 22/10; confirmação até 12/10 caso queira participar.",
       "Mackenzie — MOSTRA IT em 07/10 e Jornada InovaMack em 08/10 (informativo).",
-      "Mackenzie — Edital PIBEX 2026 recebido; o conteúdo encaminhado não trouxe detalhes suficientes para identificar ação ou prazo.",
-      "FEI e Mackenzie — comunicações de Outubro Rosa e outros informes gerais, sem tarefa acadêmica identificada."
+      "FEI e Mackenzie — demais comunicações gerais recentes, sem nova tarefa acadêmica identificada."
     ],
     "WhatsApp": [
-      "Resumo de 01/10 às 18:31: nenhuma ação exigida.",
-      "MackCalculus — divulgadas estatísticas da P1 de EMII Matutino; nenhuma solicitação dirigida a você.",
+      "Último resumo localizado: 01/10 às 18:31; nenhuma ação exigida.",
+      "MackCalculus — estatísticas da P1 de EMII Matutino divulgadas; nenhuma solicitação dirigida a você.",
       "Cobertura incompleta no grupo Prof. Dept. Matemática FEI entre 11:17 e 11:59."
     ],
     "Calendário acadêmico": [
