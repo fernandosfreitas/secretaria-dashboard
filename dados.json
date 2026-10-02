@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/10/2026 07:03",
+  "atualizado_em": "02/10/2026 15:25",
   "agora": "Sexta-feira, 02/10. Primeiro compromisso confirmado: Economia Matemática 1 às 09:20–11:00, sala 508. À tarde, MAC210 na FEI; prova prevista às 15:50. À noite, TOI W e TOI J.",
   "prioridades": [
     {
@@ -46,9 +46,10 @@
     "Preparação de aulas": [
       "Economia Matemática 2 — próxima aula: resolver exercícios do método de Lagrange a partir do Exemplo 2.",
       "Economia Matemática 2 — revisar material de otimização enviado por Katia Nishiyama.",
-      "Economia Matemática 1 — 29/09: trigonometria, derivadas de funções trigonométricas e regra do produto.",
-      "TOI W — último registro de 25/09: primeiro exemplo de máximos e mínimos em conjunto fechado triangular.",
-      "TOI J — acompanhar o ponto do diário antes da aula."
+      "Economia Matemática 1 — a aula de 02/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o registro de 29/09: trigonometria, derivadas de funções trigonométricas e regra do produto.",
+      "TOI W — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
+      "TOI J — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
+      "MAC210 — 25/09 não teve conteúdo novo; último conteúdo efetivamente ministrado: Aula 06 — Derivadas de Funções Elementares, concluída."
     ],
     "Correção de provas": [
       "MAM130",
@@ -81,7 +82,11 @@
       "17:10–19:20 — deslocamento FEI → Mackenzie e janela antes de TOI W."
     ],
     "Registro de aula": [
-      "Economia Matemática 2 — 01/10: apresentação das notas e vista das provas. Próxima aula: exercícios do método de Lagrange, a partir do Exemplo 2."
+      "Economia Matemática 2 — 01/10: apresentação das notas e vista das provas. Próxima aula: exercícios do método de Lagrange, a partir do Exemplo 2.",
+      "TOI W — 01/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
+      "TOI J — 01/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
+      "Economia Matemática 1 — 02/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
+      "MAC210 — 25/09: sem conteúdo novo; período destinado à aplicação de outras provas."
     ]
   },
   "a_fazer": [
