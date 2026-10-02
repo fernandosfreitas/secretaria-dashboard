@@ -1,6 +1,6 @@
 {
   "atualizado_em": "02/10/2026 15:25",
-  "agora": "Sexta-feira, 02/10. Primeiro compromisso confirmado: Economia Matemática 1 às 09:20–11:00, sala 508. À tarde, MAC210 na FEI; prova prevista às 15:50. À noite, TOI W e TOI J.",
+  "agora": "Sexta-feira, 02/10. MAC210 na FEI até 17:10, sala A209; prova prevista às 15:50. À noite, TOI W às 19:20 e TOI J às 21:10.",
   "prioridades": [
     {
       "titulo": "Mackenzie — NI1",
@@ -77,8 +77,6 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "07:03–09:20 — antes de Economia Matemática 1.",
-      "11:00–13:40 — intervalo antes da FEI; considerar almoço e deslocamento.",
       "17:10–19:20 — deslocamento FEI → Mackenzie e janela antes de TOI W."
     ],
     "Registro de aula": [
@@ -90,6 +88,7 @@
     ]
   },
   "a_fazer": [
+    "Mackenzie — conferir a solicitação de Diogo Souza sobre a nota correta no Portal do Aluno.",
     "Mackenzie — conferir e concluir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI até 03/10.",
     "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
     "TOI — lançar as notas das turmas J e W.",
@@ -98,6 +97,7 @@
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
+      "Mackenzie/Graduação — mensagem de Diogo Souza pedindo atenção para colocar a nota correta no Portal do Aluno; requer conferência.",
       "Mackenzie — modelos de preenchimento de disponibilidade enviados após a reunião de 01/10; material de referência, sem prazo indicado no e-mail.",
       "FEI/Moodle — mensagem de Gustavo sobre contato com Ariovaldo referente à P1 de Cálculo; requer verificação e resposta.",
       "FEI — convite para avaliador de pôsteres do SICFEI 2026 em 22/10; confirmação até 12/10 caso queira participar.",
@@ -105,9 +105,9 @@
       "FEI e Mackenzie — demais comunicações gerais recentes, sem nova tarefa acadêmica identificada."
     ],
     "WhatsApp": [
-      "Último resumo localizado: 01/10 às 18:31; nenhuma ação exigida.",
-      "MackCalculus — estatísticas da P1 de EMII Matutino divulgadas; nenhuma solicitação dirigida a você.",
-      "Cobertura incompleta no grupo Prof. Dept. Matemática FEI entre 11:17 e 11:59."
+      "Resumo de 02/10 às 14:38: nenhuma ação exigida.",
+      "FEI — comentário sobre dificuldades recorrentes de alunos de Computação; informativo.",
+      "MackCalculus — histogramas da P1 de EM II divulgados; nenhuma solicitação dirigida a você."
     ],
     "Calendário acadêmico": [
       "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; Prova Integrada 04/11; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
