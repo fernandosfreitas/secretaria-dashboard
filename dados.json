@@ -1,47 +1,21 @@
 {
-  "atualizado_em": "02/10/2026 15:25",
-  "agora": "Sexta-feira, 02/10. MAC210 na FEI até 17:10, sala A209; prova prevista às 15:50. À noite, TOI W às 19:20 e TOI J às 21:10.",
+  "atualizado_em": "03/10/2026 10:40",
+  "agora": "Sábado, 03/10, 10:40. Não há compromissos no Google Calendar hoje. O principal prazo acadêmico é o lançamento da NI1 no Mackenzie, com limite hoje.",
   "prioridades": [
     {
       "titulo": "Mackenzie — NI1",
-      "detalhe": "Prazo institucional: 03/10. Conferir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI."
-    },
-    {
-      "titulo": "Hoje: prova de MAC210",
-      "detalhe": "Aplicação prevista para 15:50. Blocos de MAC210 confirmados no Calendar, sala A209."
+      "detalhe": "Prazo institucional hoje, 03/10. Conferir e concluir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI."
     },
     {
       "titulo": "Correções em aberto",
       "detalhe": "MAM130, MAC200, NA4410 e MAE120."
+    },
+    {
+      "titulo": "FEI — divulgação",
+      "detalhe": "Divulgar aos alunos as inscrições do Sebrae Supernova até 29/10."
     }
   ],
-  "agenda": [
-    {
-      "hora": "09:20–11:00",
-      "titulo": "Economia Matemática 1 — EM1 E",
-      "local": "Mackenzie · Sala 508"
-    },
-    {
-      "hora": "13:40–15:20",
-      "titulo": "MAC210 — Cálculo Diferencial e Integral",
-      "local": "FEI · Sala A209"
-    },
-    {
-      "hora": "15:30–17:10",
-      "titulo": "MAC210 — Cálculo Diferencial e Integral",
-      "local": "FEI · Sala A209"
-    },
-    {
-      "hora": "19:20–21:00",
-      "titulo": "TOI — turma W",
-      "local": "Mackenzie · Sala 402"
-    },
-    {
-      "hora": "21:10–22:50",
-      "titulo": "TOI — turma J",
-      "local": "Mackenzie · Sala 504"
-    }
-  ],
+  "agenda": [],
   "atividades": {
     "Preparação de aulas": [
       "Economia Matemática 2 — próxima aula: resolver exercícios do método de Lagrange a partir do Exemplo 2.",
@@ -57,9 +31,7 @@
       "NA4410",
       "MAE120"
     ],
-    "Próxima prova": [
-      "MAC210 — aplicação hoje, 02/10, às 15:50."
-    ],
+    "Próxima prova": [],
     "Calendário Mackenzie — próximos marcos": [
       "03/10 — limite para lançamento da NI1.",
       "04/11 — Prova Integrada.",
@@ -77,7 +49,7 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "17:10–19:20 — deslocamento FEI → Mackenzie e janela antes de TOI W."
+      "Sem compromissos confirmados no Google Calendar hoje; janela disponível para NI1 e correções."
     ],
     "Registro de aula": [
       "Economia Matemática 2 — 01/10: apresentação das notas e vista das provas. Próxima aula: exercícios do método de Lagrange, a partir do Exemplo 2.",
@@ -92,7 +64,8 @@
     "Mackenzie — conferir e concluir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI até 03/10.",
     "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
     "TOI — lançar as notas das turmas J e W.",
-    "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação."
+    "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação.",
+    "FEI — divulgar aos alunos as inscrições do Sebrae Supernova até 29/10."
   ],
   "aguardando": [],
   "comunicacoes": {
@@ -105,9 +78,9 @@
       "FEI e Mackenzie — demais comunicações gerais recentes, sem nova tarefa acadêmica identificada."
     ],
     "WhatsApp": [
-      "Resumo de 02/10 às 14:38: nenhuma ação exigida.",
-      "FEI — comentário sobre dificuldades recorrentes de alunos de Computação; informativo.",
-      "MackCalculus — histogramas da P1 de EM II divulgados; nenhuma solicitação dirigida a você."
+      "Último resumo localizado: 02/10 às 18:25.",
+      "FEI — divulgar aos alunos as inscrições do Sebrae Supernova até 29/10.",
+      "MackCalculus — histograma da P1 de EM II Noturno divulgado; material de referência, sem pedido."
     ],
     "Calendário acadêmico": [
       "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; Prova Integrada 04/11; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
