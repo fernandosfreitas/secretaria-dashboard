@@ -3,10 +3,6 @@
   "agora": "Sábado, 03/10, 10:40. Não há compromissos no Google Calendar hoje. O principal prazo acadêmico é o lançamento da NI1 no Mackenzie, com limite hoje.",
   "prioridades": [
     {
-      "titulo": "Mackenzie — NI1",
-      "detalhe": "Prazo institucional hoje, 03/10. Conferir e concluir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI."
-    },
-    {
       "titulo": "Correções em aberto",
       "detalhe": "MAM130, MAC200, NA4410 e MAE120."
     },
@@ -56,14 +52,13 @@
       "TOI W — 01/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
       "TOI J — 01/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
       "Economia Matemática 1 — 02/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
-      "MAC210 — 25/09: sem conteúdo novo; período destinado à aplicação de outras provas."
+      "MAC210 — 25/09: sem conteúdo novo; período destinado à aplicação de outras provas.",
+      "Mackenzie — concluído o lançamento de todas as notas das turmas de TOI e de Economia Matemática 1 e Economia Matemática 2."
     ]
   },
   "a_fazer": [
     "Mackenzie — conferir a solicitação de Diogo Souza sobre a nota correta no Portal do Aluno.",
-    "Mackenzie — conferir e concluir o lançamento da NI1 de Economia Matemática 1, Economia Matemática 2 e TOI até 03/10.",
     "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
-    "TOI — lançar as notas das turmas J e W.",
     "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação.",
     "FEI — divulgar aos alunos as inscrições do Sebrae Supernova até 29/10."
   ],
