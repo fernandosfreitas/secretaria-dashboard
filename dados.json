@@ -1,17 +1,32 @@
 {
-  "atualizado_em": "03/10/2026 10:40",
-  "agora": "Sábado, 03/10, 10:40. Não há compromissos no Google Calendar hoje. O principal prazo acadêmico é o lançamento da NI1 no Mackenzie, com limite hoje.",
+  "atualizado_em": "05/10/2026 20:07",
+  "agora": "Segunda-feira, 05/10, 20:07. Os compromissos confirmados de hoje já terminaram. Não há outro compromisso no Google Calendar até o fim do dia.",
   "prioridades": [
     {
       "titulo": "Correções em aberto",
       "detalhe": "MAM130, MAC200, NA4410 e MAE120."
     },
     {
-      "titulo": "FEI — divulgação",
-      "detalhe": "Divulgar aos alunos as inscrições do Sebrae Supernova até 29/10."
+      "titulo": "Mackenzie — Censo docente",
+      "detalhe": "Responder o Censo de Internacionalização Docente; o resumo institucional não informou prazo."
+    },
+    {
+      "titulo": "SICFEI 2026",
+      "detalhe": "Convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar."
     }
   ],
-  "agenda": [],
+  "agenda": [
+    {
+      "hora": "07:30–09:10",
+      "titulo": "Economia Matemática 2 — EM2 E",
+      "local": "Mackenzie · Sala 506"
+    },
+    {
+      "hora": "09:20–11:00",
+      "titulo": "Economia Matemática 1 — EM1 E",
+      "local": "Mackenzie · Sala 508"
+    }
+  ],
   "atividades": {
     "Preparação de aulas": [
       "Economia Matemática 2 — próxima aula: resolver exercícios do método de Lagrange a partir do Exemplo 2.",
@@ -38,6 +53,7 @@
       "19/12 — término das atividades acadêmicas."
     ],
     "Calendário FEI — próximos marcos": [
+      "20 e 21/10 — Congresso de Inovação e Megatendências cancelado; haverá aula normal.",
       "03/10 — fim do período de Avaliações Parciais.",
       "19/11 a 01/12 — Avaliações Finais.",
       "02 a 05/12 — Atividades Especiais.",
@@ -45,7 +61,7 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "Sem compromissos confirmados no Google Calendar hoje; janela disponível para NI1 e correções."
+      "Após 11:00 — sem outros compromissos confirmados no Google Calendar para hoje."
     ],
     "Registro de aula": [
       "Economia Matemática 2 — 01/10: apresentação das notas e vista das provas. Próxima aula: exercícios do método de Lagrange, a partir do Exemplo 2.",
@@ -57,7 +73,7 @@
     ]
   },
   "a_fazer": [
-    "Mackenzie — conferir a solicitação de Diogo Souza sobre a nota correta no Portal do Aluno.",
+    "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
     "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
     "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação.",
     "FEI — divulgar aos alunos as inscrições do Sebrae Supernova até 29/10."
@@ -65,7 +81,7 @@
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "Mackenzie/Graduação — mensagem de Diogo Souza pedindo atenção para colocar a nota correta no Portal do Aluno; requer conferência.",
+      "Mackenzie/Graduação — há mensagens acadêmicas individuais de alunos aguardando resposta; detalhes mantidos fora do dashboard público.",
       "Mackenzie — modelos de preenchimento de disponibilidade enviados após a reunião de 01/10; material de referência, sem prazo indicado no e-mail.",
       "FEI/Moodle — mensagem de Gustavo sobre contato com Ariovaldo referente à P1 de Cálculo; requer verificação e resposta.",
       "FEI — convite para avaliador de pôsteres do SICFEI 2026 em 22/10; confirmação até 12/10 caso queira participar.",
@@ -73,13 +89,14 @@
       "FEI e Mackenzie — demais comunicações gerais recentes, sem nova tarefa acadêmica identificada."
     ],
     "WhatsApp": [
-      "Último resumo localizado: 02/10 às 18:25.",
-      "FEI — divulgar aos alunos as inscrições do Sebrae Supernova até 29/10.",
-      "MackCalculus — histograma da P1 de EM II Noturno divulgado; material de referência, sem pedido."
+      "Resumo mais recente: 05/10 às 18:55; cobertura parcialmente incompleta em dois grupos.",
+      "FEI — Congresso de Inovação e Megatendências de 20 e 21/10 foi cancelado; haverá aula normal.",
+      "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
+      "MackCalculus — foi compartilhado material de teste preparatório de TOI sobre otimização; informativo."
     ],
     "Calendário acadêmico": [
       "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; Prova Integrada 04/11; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
-      "FEI/SP — avaliações parciais até 03/10; finais 19/11–01/12; atividades especiais 02–05/12; substitutivas 07–15/12; término do período letivo 18/12."
+      "FEI/SP — avaliações parciais encerradas em 03/10; Congresso de Inovação e Megatendências de 20 e 21/10 cancelado, com aula normal; finais 19/11–01/12; atividades especiais 02–05/12; substitutivas 07–15/12; término do período letivo 18/12."
     ]
   }
 }
