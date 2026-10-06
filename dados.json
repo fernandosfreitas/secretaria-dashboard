@@ -1,18 +1,18 @@
 {
-  "atualizado_em": "05/10/2026 20:07",
-  "agora": "Segunda-feira, 05/10, 20:07. Os compromissos confirmados de hoje já terminaram. Não há outro compromisso no Google Calendar até o fim do dia.",
+  "atualizado_em": "06/10/2026 06:42",
+  "agora": "Terça-feira, 06/10, 06:42. Primeiro compromisso: Economia Matemática 2 às 07:30. Depois, Economia Matemática 1 às 09:20. À tarde e à noite, aulas na FEI.",
   "prioridades": [
+    {
+      "titulo": "Aulas de hoje",
+      "detalhe": "EM2 às 07:30 e EM1 às 09:20; MAM130 às 17:20 e MAC200 das 19:20 às 22:50."
+    },
     {
       "titulo": "Correções em aberto",
       "detalhe": "MAM130, MAC200, NA4410 e MAE120."
     },
     {
       "titulo": "Mackenzie — Censo docente",
-      "detalhe": "Responder o Censo de Internacionalização Docente; o resumo institucional não informou prazo."
-    },
-    {
-      "titulo": "SICFEI 2026",
-      "detalhe": "Convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar."
+      "detalhe": "Responder o Censo de Internacionalização Docente; prazo não informado."
     }
   ],
   "agenda": [
@@ -25,6 +25,21 @@
       "hora": "09:20–11:00",
       "titulo": "Economia Matemática 1 — EM1 E",
       "local": "Mackenzie · Sala 508"
+    },
+    {
+      "hora": "17:20–19:00",
+      "titulo": "MAM130 — Matemática com GeoGebra",
+      "local": "FEI · Sala B217"
+    },
+    {
+      "hora": "19:20–21:00",
+      "titulo": "MAC200 — Cálculo Diferencial e Integral",
+      "local": "FEI · Sala B221"
+    },
+    {
+      "hora": "21:10–22:50",
+      "titulo": "MAC200 — Cálculo Diferencial e Integral",
+      "local": "FEI · Sala B221"
     }
   ],
   "atividades": {
@@ -61,7 +76,7 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "Após 11:00 — sem outros compromissos confirmados no Google Calendar para hoje."
+      "11:00–17:20 — intervalo entre as aulas da manhã e a primeira aula na FEI."
     ],
     "Registro de aula": [
       "Economia Matemática 2 — 01/10: apresentação das notas e vista das provas. Próxima aula: exercícios do método de Lagrange, a partir do Exemplo 2.",
