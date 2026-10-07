@@ -7,8 +7,8 @@
       "detalhe": "Preencher a disponibilidade docente até 14/10."
     },
     {
-      "titulo": "Correções em aberto",
-      "detalhe": "MAM130, MAC200, NA4410 e MAE120."
+      "titulo": "Correção em aberto",
+      "detalhe": "MAE120."
     },
     {
       "titulo": "SICFEI 2026",
@@ -42,9 +42,6 @@
       "MAC210 — 25/09 não teve conteúdo novo; último conteúdo efetivamente ministrado: Aula 06 — Derivadas de Funções Elementares, concluída."
     ],
     "Correção de provas": [
-      "MAM130",
-      "MAC200",
-      "NA4410",
       "MAE120"
     ],
     "Próxima prova": [],
