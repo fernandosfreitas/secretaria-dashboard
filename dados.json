@@ -1,45 +1,35 @@
 {
-  "atualizado_em": "06/10/2026 06:42",
-  "agora": "Terça-feira, 06/10, 06:42. Primeiro compromisso: Economia Matemática 2 às 07:30. Depois, Economia Matemática 1 às 09:20. À tarde e à noite, aulas na FEI.",
+  "atualizado_em": "07/10/2026 10:42",
+  "agora": "Quarta-feira, 07/10, 10:42. Próximo compromisso confirmado: NA4410 às 17:20, sala B221. Depois, MAG120 às 19:20 e MAE120 às 21:10.",
   "prioridades": [
     {
-      "titulo": "Aulas de hoje",
-      "detalhe": "EM2 às 07:30 e EM1 às 09:20; MAM130 às 17:20 e MAC200 das 19:20 às 22:50."
+      "titulo": "Mackenzie — disponibilidade docente",
+      "detalhe": "Preencher a disponibilidade docente até 14/10."
     },
     {
       "titulo": "Correções em aberto",
       "detalhe": "MAM130, MAC200, NA4410 e MAE120."
     },
     {
-      "titulo": "Mackenzie — Censo docente",
-      "detalhe": "Responder o Censo de Internacionalização Docente; prazo não informado."
+      "titulo": "SICFEI 2026",
+      "detalhe": "Confirmar participação como avaliador até 12/10, caso queira participar."
     }
   ],
   "agenda": [
     {
-      "hora": "07:30–09:10",
-      "titulo": "Economia Matemática 2 — EM2 E",
-      "local": "Mackenzie · Sala 506"
-    },
-    {
-      "hora": "09:20–11:00",
-      "titulo": "Economia Matemática 1 — EM1 E",
-      "local": "Mackenzie · Sala 508"
-    },
-    {
       "hora": "17:20–19:00",
-      "titulo": "MAM130 — Matemática com GeoGebra",
-      "local": "FEI · Sala B217"
+      "titulo": "NA4410 — Estatística",
+      "local": "FEI · Sala B221"
     },
     {
       "hora": "19:20–21:00",
-      "titulo": "MAC200 — Cálculo Diferencial e Integral",
-      "local": "FEI · Sala B221"
+      "titulo": "MAG120 — Vetores e Geometria Analítica",
+      "local": "FEI · Sala A212"
     },
     {
       "hora": "21:10–22:50",
-      "titulo": "MAC200 — Cálculo Diferencial e Integral",
-      "local": "FEI · Sala B221"
+      "titulo": "MAE120 — Estatística",
+      "local": "FEI · Sala A209"
     }
   ],
   "atividades": {
@@ -76,7 +66,7 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "11:00–17:20 — intervalo entre as aulas da manhã e a primeira aula na FEI."
+      "10:42–17:20 — janela antes de NA4410."
     ],
     "Registro de aula": [
       "Economia Matemática 2 — 01/10: apresentação das notas e vista das provas. Próxima aula: exercícios do método de Lagrange, a partir do Exemplo 2.",
@@ -88,6 +78,7 @@
     ]
   },
   "a_fazer": [
+    "Mackenzie — preencher a disponibilidade docente até 14/10.",
     "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
     "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
     "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação.",
@@ -96,18 +87,16 @@
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "Mackenzie/Graduação — há mensagens acadêmicas individuais de alunos aguardando resposta; detalhes mantidos fora do dashboard público.",
-      "Mackenzie — modelos de preenchimento de disponibilidade enviados após a reunião de 01/10; material de referência, sem prazo indicado no e-mail.",
-      "FEI/Moodle — mensagem de Gustavo sobre contato com Ariovaldo referente à P1 de Cálculo; requer verificação e resposta.",
+      "FEI/Moodle — há mensagem acadêmica individual de aluno aguardando resposta sobre avaliação/nota; detalhes mantidos fora do dashboard público.",
+      "Mackenzie/CCSA — disponibilidade docente para preenchimento até 14/10.",
       "FEI — convite para avaliador de pôsteres do SICFEI 2026 em 22/10; confirmação até 12/10 caso queira participar.",
-      "Mackenzie — MOSTRA IT em 07/10 e Jornada InovaMack em 08/10 (informativo).",
-      "FEI e Mackenzie — demais comunicações gerais recentes, sem nova tarefa acadêmica identificada."
+      "Mackenzie — MOSTRA IT hoje, 07/10, e Jornada InovaMack em 08/10 (informativo).",
+      "FEI e Mackenzie — demais comunicações recentes sem nova tarefa acadêmica confirmada."
     ],
     "WhatsApp": [
-      "Resumo mais recente: 05/10 às 18:55; cobertura parcialmente incompleta em dois grupos.",
-      "FEI — Congresso de Inovação e Megatendências de 20 e 21/10 foi cancelado; haverá aula normal.",
-      "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
-      "MackCalculus — foi compartilhado material de teste preparatório de TOI sobre otimização; informativo."
+      "Resumo mais recente localizado: 06/10 às 18:17.",
+      "FEI — nenhuma ação nova nessa rodada.",
+      "Mackenzie — nenhuma ação nova nessa rodada; divulgação de evento/artigo institucional apenas informativa."
     ],
     "Calendário acadêmico": [
       "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; Prova Integrada 04/11; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
