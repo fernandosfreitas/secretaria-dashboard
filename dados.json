@@ -1,42 +1,43 @@
 {
-  "atualizado_em": "07/10/2026 10:42",
-  "agora": "Quarta-feira, 07/10, 10:42. Próximo compromisso confirmado: NA4410 às 17:20, sala B221. Depois, MAG120 às 19:20 e MAE120 às 21:10.",
+  "atualizado_em": "08/10/2026 — briefing das 06:34",
+  "agora": "Quinta-feira, 08/10. Hoje no Mackenzie: Economia Matemática 2, 07:30–09:10, sala 506; TOI W, 19:20–21:00, sala 403; TOI J, 21:10–22:50, sala 506. Dados atualizados com o briefing de hoje às 06:34 e os registros de aula informados.",
   "prioridades": [
     {
+      "titulo": "Responder às solicitações acadêmicas dos alunos",
+      "detalhe": "Esclarecer horário de atendimento de hoje e conteúdo da avaliação; verificar também a solicitação sobre vista/nota de Métodos Estatísticos. Detalhes pessoais mantidos fora do dashboard público."
+    },
+    {
       "titulo": "Mackenzie — disponibilidade docente",
-      "detalhe": "Preencher a disponibilidade docente até 14/10."
+      "detalhe": "Preencher no MackEdoc até 14/10."
     },
     {
-      "titulo": "Correção em aberto",
-      "detalhe": "MAE120."
-    },
-    {
-      "titulo": "SICFEI 2026",
-      "detalhe": "Confirmar participação como avaliador até 12/10, caso queira participar."
+      "titulo": "Urgente — Lista 2 de MAC200",
+      "detalhe": "Preparar o mais rápido possível: derivadas de funções exponenciais e logarítmicas."
     }
   ],
   "agenda": [
     {
-      "hora": "17:20–19:00",
-      "titulo": "NA4410 — Estatística",
-      "local": "FEI · Sala B221"
+      "hora": "07:30–09:10",
+      "titulo": "Economia Matemática 2",
+      "local": "Mackenzie · Sala 506"
     },
     {
       "hora": "19:20–21:00",
-      "titulo": "MAG120 — Vetores e Geometria Analítica",
-      "local": "FEI · Sala A212"
+      "titulo": "TOI — turma W",
+      "local": "Mackenzie · Sala 403"
     },
     {
       "hora": "21:10–22:50",
-      "titulo": "MAE120 — Estatística",
-      "local": "FEI · Sala A209"
+      "titulo": "TOI — turma J",
+      "local": "Mackenzie · Sala 506"
     }
   ],
   "atividades": {
     "Preparação de aulas": [
-      "Economia Matemática 2 — próxima aula: resolver exercícios do método de Lagrange a partir do Exemplo 2.",
-      "Economia Matemática 2 — revisar material de otimização enviado por Katia Nishiyama.",
-      "Economia Matemática 1 — a aula de 02/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o registro de 29/09: trigonometria, derivadas de funções trigonométricas e regra do produto.",
+      "Economia Matemática 2 — 06/10: exercícios de otimização pelo método de Lagrange; Exemplo 2 (circunferência com paraboloide elíptico) e Exemplo 3 (circunferência com reta). Próximo avanço ainda não registrado.",
+      "Economia Matemática 1 — 06/10: funções compostas e função inversa.",
+      "MAC200 — preparar a Lista 2 sobre derivadas exponenciais e logarítmicas, com urgência; conteúdo ministrado em 06/10.",
+      "MAM130 — 06/10: sistemas lineares. Próxima aula: Atividade do Jardineiro; alunos orientados a estudar sistemas lineares.",
       "TOI W — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
       "TOI J — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
       "MAC210 — 25/09 não teve conteúdo novo; último conteúdo efetivamente ministrado: Aula 06 — Derivadas de Funções Elementares, concluída."
@@ -46,7 +47,6 @@
     ],
     "Próxima prova": [],
     "Calendário Mackenzie — próximos marcos": [
-      "03/10 — limite para lançamento da NI1.",
       "04/11 — Prova Integrada.",
       "28/11 — limite para lançamento da NI2.",
       "30/11 a 05/12 — Avaliações Substitutivas.",
@@ -56,16 +56,24 @@
     ],
     "Calendário FEI — próximos marcos": [
       "20 e 21/10 — Congresso de Inovação e Megatendências cancelado; haverá aula normal.",
-      "03/10 — fim do período de Avaliações Parciais.",
       "19/11 a 01/12 — Avaliações Finais.",
       "02 a 05/12 — Atividades Especiais.",
       "07 a 15/12 — Avaliações Substitutivas.",
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "10:42–17:20 — janela antes de NA4410."
+      "09:10–11:30 — responder às solicitações dos alunos e iniciar disponibilidade do Mackenzie.",
+      "11:30–13:00 — almoço.",
+      "13:00–16:00 — preparar a Lista 2 de MAC200.",
+      "16:00–19:00 — janela para correção de MAE120 e preparação das aulas de TOI.",
+      "Permanece no Mackenzie; sem deslocamento entre instituições. Seminário de Economia opcional às 18h, sala 603 do prédio 45."
     ],
     "Registro de aula": [
+      "06/10 — Economia Matemática 2: exercícios de Lagrange, Exemplos 2 e 3.",
+      "06/10 — Economia Matemática 1: funções compostas e função inversa.",
+      "06/10 — MAC200: derivadas de funções exponenciais e logarítmicas.",
+      "06/10 — MAM130: sistemas lineares; próxima aula com a Atividade do Jardineiro.",
+      "Correções concluídas: MAM130, MAC200 e NA4410. Permanece pendente MAE120.",
       "Economia Matemática 2 — 01/10: apresentação das notas e vista das provas. Próxima aula: exercícios do método de Lagrange, a partir do Exemplo 2.",
       "TOI W — 01/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
       "TOI J — 01/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
@@ -75,6 +83,9 @@
     ]
   },
   "a_fazer": [
+    "Urgente — preparar a Lista 2 de MAC200 sobre derivadas exponenciais e logarítmicas.",
+    "Responder às solicitações acadêmicas de atendimento e conteúdo de avaliação no Mackenzie.",
+    "FEI — verificar e responder no Moodle à solicitação sobre vista da prova/nota de Métodos Estatísticos.",
     "Mackenzie — preencher a disponibilidade docente até 14/10.",
     "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
     "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
@@ -84,16 +95,19 @@
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "FEI/Moodle — há mensagem acadêmica individual de aluno aguardando resposta sobre avaliação/nota; detalhes mantidos fora do dashboard público.",
-      "Mackenzie/CCSA — disponibilidade docente para preenchimento até 14/10.",
-      "FEI — convite para avaliador de pôsteres do SICFEI 2026 em 22/10; confirmação até 12/10 caso queira participar.",
-      "Mackenzie — MOSTRA IT hoje, 07/10, e Jornada InovaMack em 08/10 (informativo).",
-      "FEI e Mackenzie — demais comunicações recentes sem nova tarefa acadêmica confirmada."
+      "Mackenzie — solicitações individuais sobre horário de atendimento de hoje e conteúdo exato da avaliação; responder. Dados pessoais mantidos fora do dashboard público.",
+      "FEI/Moodle — verificar resposta à solicitação sobre acesso à prova/nota de Métodos Estatísticos.",
+      "Mackenzie — disponibilidade docente no MackEdoc até 14/10.",
+      "Mackenzie — notificações de novos acessos: conferir se reconhece; agir somente se não reconhecer.",
+      "FEI — webinar opcional hoje, 19h–20h30; coincide com parte da aula de TOI W.",
+      "FEI — SICFEI em 22/10; confirmar participação como avaliador até 12/10, caso tenha interesse."
     ],
     "WhatsApp": [
-      "Resumo mais recente localizado: 06/10 às 18:17.",
-      "FEI — nenhuma ação nova nessa rodada.",
-      "Mackenzie — nenhuma ação nova nessa rodada; divulgação de evento/artigo institucional apenas informativa."
+      "Fonte: resumo institucional recebido pelo Gmail em 07/10 às 12:09, informado no briefing de 08/10 às 06:34.",
+      "FEI — nenhuma nova ação acadêmica identificada nessa rodada.",
+      "Mackenzie — Seminário de Economia hoje às 18h, sala 603 do prédio 45, com Victoria Garcia; participação opcional.",
+      "Mackenzie — alerta informativo sobre uso indevido do nome de professor por terceiros; nenhuma providência específica dirigida a você.",
+      "Resumo com pequenas lacunas de cobertura em alguns grupos; não representa varredura integral."
     ],
     "Calendário acadêmico": [
       "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; Prova Integrada 04/11; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
