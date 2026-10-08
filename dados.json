@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "08/10/2026 — briefing das 06:34",
-  "agora": "Quinta-feira, 08/10. Hoje no Mackenzie: Economia Matemática 2, 07:30–09:10, sala 506; TOI W, 19:20–21:00, sala 403; TOI J, 21:10–22:50, sala 506. Dados atualizados com o briefing de hoje às 06:34 e os registros de aula informados.",
+  "atualizado_em": "08/10/2026 — atualização do Teste 3 de Economia Matemática 1",
+  "agora": "Quinta-feira, 08/10. Hoje no Mackenzie: Economia Matemática 2, 07:30–09:10, sala 506; TOI W, 19:20–21:00, sala 403; TOI J, 21:10–22:50, sala 506. Dados atualizados com o briefing de hoje às 06:34 e os registros de aula informados. Amanhã, 09/10, está previsto o Teste 3 de Economia Matemática 1; prova pronta.",
   "prioridades": [
     {
       "titulo": "Responder às solicitações acadêmicas dos alunos",
@@ -36,6 +36,7 @@
     "Preparação de aulas": [
       "Economia Matemática 2 — 06/10: exercícios de otimização pelo método de Lagrange; Exemplo 2 (circunferência com paraboloide elíptico) e Exemplo 3 (circunferência com reta). Próximo avanço ainda não registrado.",
       "Economia Matemática 1 — 06/10: funções compostas e função inversa.",
+      "Economia Matemática 1 — Teste 3 em 09/10: derivadas de funções elementares, regra do produto e regra do quociente; prova já preparada.",
       "MAC200 — preparar a Lista 2 sobre derivadas exponenciais e logarítmicas, com urgência; conteúdo ministrado em 06/10.",
       "MAM130 — 06/10: sistemas lineares. Próxima aula: Atividade do Jardineiro; alunos orientados a estudar sistemas lineares.",
       "TOI W — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
@@ -45,7 +46,9 @@
     "Correção de provas": [
       "MAE120"
     ],
-    "Próxima prova": [],
+    "Próxima prova": [
+      "09/10/2026 (sexta-feira) — Economia Matemática 1 (Mackenzie): Teste 3. Conteúdo: derivadas de funções elementares, regra do produto e regra do quociente. Prova pronta; falta apenas aplicar."
+    ],
     "Calendário Mackenzie — próximos marcos": [
       "04/11 — Prova Integrada.",
       "28/11 — limite para lançamento da NI2.",
@@ -69,6 +72,7 @@
       "Permanece no Mackenzie; sem deslocamento entre instituições. Seminário de Economia opcional às 18h, sala 603 do prédio 45."
     ],
     "Registro de aula": [
+      "09/10 — Economia Matemática 1: aplicação prevista do Teste 3 (derivadas de funções elementares, regra do produto e regra do quociente); prova pronta, ainda não aplicada.",
       "06/10 — Economia Matemática 2: exercícios de Lagrange, Exemplos 2 e 3.",
       "06/10 — Economia Matemática 1: funções compostas e função inversa.",
       "06/10 — MAC200: derivadas de funções exponenciais e logarítmicas.",
