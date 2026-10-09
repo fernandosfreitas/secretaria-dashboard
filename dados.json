@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "08/10/2026 — atualização do Teste 3 de Economia Matemática 1",
-  "agora": "Quinta-feira, 08/10. Hoje no Mackenzie: Economia Matemática 2, 07:30–09:10, sala 506; TOI W, 19:20–21:00, sala 403; TOI J, 21:10–22:50, sala 506. Dados atualizados com o briefing de hoje às 06:34 e os registros de aula informados. Amanhã, 09/10, está previsto o Teste 3 de Economia Matemática 1; prova pronta.",
+  "atualizado_em": "09/10/2026 — 06:46",
+  "agora": "Sexta-feira, 09/10: Economia Matemática 1 (Teste 3) 09:20–11:00, sala 508; MAC210 13:40–17:10, sala A209; TOI W 19:20–21:00, sala 402; TOI J 21:10–22:50, sala 504.",
   "prioridades": [
     {
       "titulo": "Responder às solicitações acadêmicas dos alunos",
@@ -17,19 +17,29 @@
   ],
   "agenda": [
     {
-      "hora": "07:30–09:10",
-      "titulo": "Economia Matemática 2",
-      "local": "Mackenzie · Sala 506"
+      "hora": "09:20–11:00",
+      "titulo": "Economia Matemática 1 — Teste 3",
+      "local": "Mackenzie · Sala 508"
+    },
+    {
+      "hora": "13:40–15:20",
+      "titulo": "MAC210 — bloco 1",
+      "local": "FEI · Sala A209"
+    },
+    {
+      "hora": "15:30–17:10",
+      "titulo": "MAC210 — bloco 2",
+      "local": "FEI · Sala A209"
     },
     {
       "hora": "19:20–21:00",
-      "titulo": "TOI — turma W",
-      "local": "Mackenzie · Sala 403"
+      "titulo": "TOI W",
+      "local": "Mackenzie · Sala 402"
     },
     {
       "hora": "21:10–22:50",
-      "titulo": "TOI — turma J",
-      "local": "Mackenzie · Sala 506"
+      "titulo": "TOI J",
+      "local": "Mackenzie · Sala 504"
     }
   ],
   "atividades": {
@@ -47,7 +57,7 @@
       "MAE120"
     ],
     "Próxima prova": [
-      "09/10/2026 (sexta-feira) — Economia Matemática 1 (Mackenzie): Teste 3. Conteúdo: derivadas de funções elementares, regra do produto e regra do quociente. Prova pronta; falta apenas aplicar."
+      "09/10 — Teste 3 de Economia Matemática 1, 09:20–11:00. Prova pronta, aplicação ainda não confirmada."
     ],
     "Calendário Mackenzie — próximos marcos": [
       "04/11 — Prova Integrada.",
@@ -65,11 +75,9 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "09:10–11:30 — responder às solicitações dos alunos e iniciar disponibilidade do Mackenzie.",
-      "11:30–13:00 — almoço.",
-      "13:00–16:00 — preparar a Lista 2 de MAC200.",
-      "16:00–19:00 — janela para correção de MAE120 e preparação das aulas de TOI.",
-      "Permanece no Mackenzie; sem deslocamento entre instituições. Seminário de Economia opcional às 18h, sala 603 do prédio 45."
+      "Antes de 09:20 — organizar aplicação do Teste 3.",
+      "11:00–13:40 — almoço e deslocamento Mackenzie–FEI.",
+      "17:10–19:20 — deslocamento FEI–Mackenzie e tarefas breves."
     ],
     "Registro de aula": [
       "09/10 — Economia Matemática 1: aplicação prevista do Teste 3 (derivadas de funções elementares, regra do produto e regra do quociente); prova pronta, ainda não aplicada.",
