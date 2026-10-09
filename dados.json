@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "09/10/2026 — registro da aula de MAC210",
+  "atualizado_em": "09/10/2026 — Lista 2 de MAC200 concluída",
   "agora": "Sexta-feira, 09/10: Economia Matemática 1 (Teste 3) 09:20–11:00, sala 508; MAC210 13:40–17:10, sala A209; TOI W 19:20–21:00, sala 402; TOI J 21:10–22:50, sala 504.",
   "prioridades": [
     {
@@ -9,10 +9,6 @@
     {
       "titulo": "Mackenzie — disponibilidade docente",
       "detalhe": "Preencher no MackEdoc até 14/10."
-    },
-    {
-      "titulo": "Urgente — Lista 2 de MAC200",
-      "detalhe": "Preparar o mais rápido possível: derivadas de funções exponenciais e logarítmicas."
     }
   ],
   "agenda": [
@@ -47,7 +43,7 @@
       "Economia Matemática 2 — 06/10: exercícios de otimização pelo método de Lagrange; Exemplo 2 (circunferência com paraboloide elíptico) e Exemplo 3 (circunferência com reta). Próximo avanço ainda não registrado.",
       "Economia Matemática 1 — 06/10: funções compostas e função inversa.",
       "Economia Matemática 1 — Teste 3 em 09/10: derivadas de funções elementares, regra do produto e regra do quociente; prova já preparada.",
-      "MAC200 — preparar a Lista 2 sobre derivadas exponenciais e logarítmicas, com urgência; conteúdo ministrado em 06/10.",
+      "MAC200 — Lista 2 de exercícios sobre derivadas de funções exponenciais e logarítmicas concluída.",
       "MAM130 — 06/10: sistemas lineares. Próxima aula: Atividade do Jardineiro; alunos orientados a estudar sistemas lineares.",
       "TOI W — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
       "TOI J — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
@@ -80,6 +76,7 @@
       "17:10–19:20 — deslocamento FEI–Mackenzie e tarefas breves."
     ],
     "Registro de aula": [
+      "09/10 — MAC200: concluída a preparação da Lista 2 de exercícios (derivadas exponenciais e logarítmicas).",
       "09/10 — MAC210 (FEI): regra do produto e regra do quociente. Próxima aula: regra da cadeia.",
       "09/10 — Economia Matemática 1: aplicação prevista do Teste 3 (derivadas de funções elementares, regra do produto e regra do quociente); prova pronta, ainda não aplicada.",
       "06/10 — Economia Matemática 2: exercícios de Lagrange, Exemplos 2 e 3.",
@@ -96,7 +93,6 @@
     ]
   },
   "a_fazer": [
-    "Urgente — preparar a Lista 2 de MAC200 sobre derivadas exponenciais e logarítmicas.",
     "Responder às solicitações acadêmicas de atendimento e conteúdo de avaliação no Mackenzie.",
     "FEI — verificar e responder no Moodle à solicitação sobre vista da prova/nota de Métodos Estatísticos.",
     "Mackenzie — preencher a disponibilidade docente até 14/10.",
