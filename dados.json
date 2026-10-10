@@ -1,7 +1,11 @@
 {
-  "atualizado_em": "10/10/2026 — pendências de publicação de resoluções",
+  "atualizado_em": "10/10/2026 — prazo do questionário de EM I atualizado",
   "agora": "Sexta-feira, 09/10: Economia Matemática 1 (Teste 3) 09:20–11:00, sala 508; MAC210 13:40–17:10, sala A209; TOI W 19:20–21:00, sala 402; TOI J 21:10–22:50, sala 504.",
   "prioridades": [
+    {
+      "titulo": "Urgente hoje — Questionário de derivadas de EM I",
+      "detalhe": "Elaborar e disponibilizar no Moodle até 10/10/2026."
+    },
     {
       "titulo": "Responder às solicitações acadêmicas dos alunos",
       "detalhe": "Esclarecer horário de atendimento de hoje e conteúdo da avaliação; verificar também a solicitação sobre vista/nota de Métodos Estatísticos. Detalhes pessoais mantidos fora do dashboard público."
@@ -40,7 +44,7 @@
   ],
   "atividades": {
     "Preparação de aulas": [
-      "Economia Matemática 1 (EM I) — elaborar questionário sobre derivadas no Moodle. Prazo não informado.",
+      "Economia Matemática 1 (EM I) — elaborar questionário sobre derivadas no Moodle. Prazo: hoje, 10/10/2026 (sábado).",
       "Economia Matemática 2 — 06/10: exercícios de otimização pelo método de Lagrange; Exemplo 2 (circunferência com paraboloide elíptico) e Exemplo 3 (circunferência com reta). Próximo avanço ainda não registrado.",
       "Economia Matemática 1 — 06/10: funções compostas e função inversa.",
       "Economia Matemática 1 — Teste 3 em 09/10: derivadas de funções elementares, regra do produto e regra do quociente; prova já preparada.",
@@ -95,7 +99,7 @@
   },
   "a_fazer": [
     "Publicar as resoluções das provas e das atividades de Economia Matemática 1 (EM I), Economia Matemática 2 (EM II) e TOI (turmas J e W). Prazo não informado.",
-    "Economia Matemática 1 (EM I) — elaborar questionário sobre derivadas no Moodle. Prazo não informado.",
+    "Economia Matemática 1 (EM I) — elaborar questionário sobre derivadas no Moodle. Prazo: hoje, 10/10/2026 (sábado).",
     "Responder às solicitações acadêmicas de atendimento e conteúdo de avaliação no Mackenzie.",
     "FEI — verificar e responder no Moodle à solicitação sobre vista da prova/nota de Métodos Estatísticos.",
     "Mackenzie — preencher a disponibilidade docente até 14/10.",
