@@ -1,49 +1,23 @@
 {
-  "atualizado_em": "10/10/2026 — questionário de EM I concluído",
-  "agora": "Sexta-feira, 09/10: Economia Matemática 1 (Teste 3) 09:20–11:00, sala 508; MAC210 13:40–17:10, sala A209; TOI W 19:20–21:00, sala 402; TOI J 21:10–22:50, sala 504.",
+  "atualizado_em": "11/10/2026 — 16:38",
+  "agora": "Domingo, 11/10/2026: nenhum compromisso encontrado no Google Calendar. Prioridade: publicar resoluções de EM I, EM II e TOI até segunda-feira, 12/10.",
   "prioridades": [
     {
-      "titulo": "Responder às solicitações acadêmicas dos alunos",
-      "detalhe": "Esclarecer horário de atendimento de hoje e conteúdo da avaliação; verificar também a solicitação sobre vista/nota de Métodos Estatísticos. Detalhes pessoais mantidos fora do dashboard público."
+      "titulo": "Até segunda-feira, 12/10 — publicar resoluções",
+      "detalhe": "Publicar resoluções das provas e atividades de EM I, EM II e TOI (turmas J e W)."
     },
     {
       "titulo": "Mackenzie — disponibilidade docente",
       "detalhe": "Preencher no MackEdoc até 14/10."
     }
   ],
-  "agenda": [
-    {
-      "hora": "09:20–11:00",
-      "titulo": "Economia Matemática 1 — Teste 3",
-      "local": "Mackenzie · Sala 508"
-    },
-    {
-      "hora": "13:40–15:20",
-      "titulo": "MAC210 — bloco 1",
-      "local": "FEI · Sala A209"
-    },
-    {
-      "hora": "15:30–17:10",
-      "titulo": "MAC210 — bloco 2",
-      "local": "FEI · Sala A209"
-    },
-    {
-      "hora": "19:20–21:00",
-      "titulo": "TOI W",
-      "local": "Mackenzie · Sala 402"
-    },
-    {
-      "hora": "21:10–22:50",
-      "titulo": "TOI J",
-      "local": "Mackenzie · Sala 504"
-    }
-  ],
+  "agenda": [],
   "atividades": {
     "Preparação de aulas": [
       "Economia Matemática 1 (EM I) — questionário de derivadas com 20 questões cadastradas no Moodle em 10/10/2026 (concluído).",
       "Economia Matemática 2 — 06/10: exercícios de otimização pelo método de Lagrange; Exemplo 2 (circunferência com paraboloide elíptico) e Exemplo 3 (circunferência com reta). Próximo avanço ainda não registrado.",
       "Economia Matemática 1 — 06/10: funções compostas e função inversa.",
-      "Economia Matemática 1 — Teste 3 em 09/10: derivadas de funções elementares, regra do produto e regra do quociente; prova já preparada.",
+      "Economia Matemática 1 — Teste 3 aplicado em 09/10; conteúdo: derivadas elementares, regra do produto e regra do quociente. Na continuação: regra da cadeia e função inversa.",
       "MAC200 — Lista 2 de exercícios sobre derivadas de funções exponenciais e logarítmicas concluída.",
       "MAM130 — 06/10: sistemas lineares. Próxima aula: Atividade do Jardineiro; alunos orientados a estudar sistemas lineares.",
       "TOI W — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
@@ -54,7 +28,7 @@
       "MAE120"
     ],
     "Próxima prova": [
-      "09/10 — Teste 3 de Economia Matemática 1, 09:20–11:00. Prova pronta, aplicação ainda não confirmada."
+      "Nenhuma prova futura confirmada neste painel; Teste 3 de EM I foi aplicado em 09/10."
     ],
     "Calendário Mackenzie — próximos marcos": [
       "04/11 — Prova Integrada.",
@@ -72,14 +46,12 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "Antes de 09:20 — organizar aplicação do Teste 3.",
-      "11:00–13:40 — almoço e deslocamento Mackenzie–FEI.",
-      "17:10–19:20 — deslocamento FEI–Mackenzie e tarefas breves."
+      "Domingo, 11/10 — sem compromissos encontrados no Google Calendar; reservar tempo para publicar as resoluções com prazo em 12/10."
     ],
     "Registro de aula": [
       "09/10 — MAC200: concluída a preparação da Lista 2 de exercícios (derivadas exponenciais e logarítmicas).",
       "09/10 — MAC210 (FEI): regra do produto e regra do quociente. Próxima aula: regra da cadeia.",
-      "09/10 — Economia Matemática 1: aplicação prevista do Teste 3 (derivadas de funções elementares, regra do produto e regra do quociente); prova pronta, ainda não aplicada.",
+      "09/10 — Economia Matemática 1: Teste 3 aplicado (derivadas elementares, produto e quociente); depois, regra da cadeia e função inversa.",
       "06/10 — Economia Matemática 2: exercícios de Lagrange, Exemplos 2 e 3.",
       "06/10 — Economia Matemática 1: funções compostas e função inversa.",
       "06/10 — MAC200: derivadas de funções exponenciais e logarítmicas.",
@@ -106,17 +78,15 @@
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "Mackenzie — solicitações individuais sobre horário de atendimento de hoje e conteúdo exato da avaliação; responder. Dados pessoais mantidos fora do dashboard público.",
+      "Mackenzie — solicitações individuais sobre horário de atendimento e conteúdo exato da avaliação; responder. Dados pessoais mantidos fora do dashboard público.",
       "FEI/Moodle — verificar resposta à solicitação sobre acesso à prova/nota de Métodos Estatísticos.",
       "Mackenzie — disponibilidade docente no MackEdoc até 14/10.",
       "Mackenzie — notificações de novos acessos: conferir se reconhece; agir somente se não reconhecer.",
-      "FEI — webinar opcional hoje, 19h–20h30; coincide com parte da aula de TOI W.",
       "FEI — SICFEI em 22/10; confirmar participação como avaliador até 12/10, caso tenha interesse."
     ],
     "WhatsApp": [
       "Fonte: resumo institucional recebido pelo Gmail em 07/10 às 12:09, informado no briefing de 08/10 às 06:34.",
       "FEI — nenhuma nova ação acadêmica identificada nessa rodada.",
-      "Mackenzie — Seminário de Economia hoje às 18h, sala 603 do prédio 45, com Victoria Garcia; participação opcional.",
       "Mackenzie — alerta informativo sobre uso indevido do nome de professor por terceiros; nenhuma providência específica dirigida a você.",
       "Resumo com pequenas lacunas de cobertura em alguns grupos; não representa varredura integral."
     ],
