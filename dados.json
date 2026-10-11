@@ -1,7 +1,11 @@
 {
-  "atualizado_em": "11/10/2026 — cancelamento da Prova Integrada",
+  "atualizado_em": "11/10/2026 — planejamento do 2º bimestre até 14/10 às 12h",
   "agora": "Domingo, 11/10/2026: nenhum compromisso encontrado no Google Calendar. Prioridade: publicar resoluções de EM I, EM II e TOI até segunda-feira, 12/10.",
   "prioridades": [
+    {
+      "titulo": "Até quarta, 14/10 às 12h — Plano do 2º bimestre",
+      "detalhe": "31 tarefas individualizadas: conteúdos, cronogramas aula a aula e Moodle de 10 disciplinas/turmas, mais prova teste de TOI sobre Lagrange. Seguir plano de execução de 11 a 14/10."
+    },
     {
       "titulo": "Até segunda-feira, 12/10 — publicar resoluções",
       "detalhe": "Publicar resoluções das provas e atividades de EM I, EM II e TOI (turmas J e W)."
@@ -62,6 +66,13 @@
       "Economia Matemática 1 — 02/10: aula destinada à apresentação das provas aos alunos; sem avanço de conteúdo.",
       "MAC210 — 25/09: sem conteúdo novo; período destinado à aplicação de outras provas.",
       "Mackenzie — concluído o lançamento de todas as notas das turmas de TOI e de Economia Matemática 1 e Economia Matemática 2."
+    ],
+    "Plano de execução — 2º bimestre": [
+      "Domingo 11/10: mapear conteúdos e aulas restantes de EM I, EM II, TOI W e TOI J; começar cronogramas; separar material da prova teste de Lagrange.",
+      "Segunda 12/10: cumprir publicação de resoluções de EM I, EM II e TOI (prazo anterior); finalizar conteúdos e cronogramas das disciplinas do Mackenzie; avançar prova teste TOI.",
+      "Terça 13/10: revisar conteúdos e construir cronogramas de MAC210, MAC200, MAM130, MAG120, NA4410 e MAE120; atualizar os respectivos Moodles, priorizando as aulas da noite.",
+      "Quarta 14/10, até 12h: concluir Moodle de todas as turmas, revisar datas e links, conferir prova teste TOI e finalizar checklist. Também vence a disponibilidade docente no MackEdoc em 14/10.",
+      "Ordem por disciplina: 1) conteúdos; 2) cronograma aula a aula; 3) Moodle; 4) verificação final. Ajustar blocos à carga de aulas e compromissos."
     ]
   },
   "a_fazer": [
@@ -72,7 +83,38 @@
     "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
     "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
     "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação.",
-    "FEI — divulgar aos alunos as inscrições do Sebrae Supernova até 29/10."
+    "FEI — divulgar aos alunos as inscrições do Sebrae Supernova até 29/10.",
+    "2º bimestre — Economia Matemática 1 (EM I): revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — Economia Matemática 1 (EM I): elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — Economia Matemática 1 (EM I): atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — Economia Matemática 2 (EM II): revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — Economia Matemática 2 (EM II): elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — Economia Matemática 2 (EM II): atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma W: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma W: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma W: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma J: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma J: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma J: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC210: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC210: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC210: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC200: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC200: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC200: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAM130: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAM130: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAM130: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAG120: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAG120: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAG120: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — NA4410: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — NA4410: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — NA4410: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAE120: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAE120: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAE120: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "TOI — preparar a prova teste sobre o método de Lagrange (turmas W e J; conferir se serão versões diferentes). Prazo: 14/10/2026, 12h."
   ],
   "aguardando": [],
   "comunicacoes": {
