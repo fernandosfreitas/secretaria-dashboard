@@ -1,21 +1,36 @@
 {
-  "atualizado_em": "11/10/2026 — atividade de derivadas MAC200 incluída",
-  "agora": "Domingo, 11/10/2026: nenhum compromisso encontrado no Google Calendar. Prioridade: publicar resoluções de EM I, EM II e TOI até segunda-feira, 12/10.",
+  "atualizado_em": "12/10/2026 — atualização da agenda e prioridades",
+  "agora": "Segunda-feira, 12/10/2026: aulas de Economia Matemática 2 (07h30–09h10, sala 506) e Economia Matemática 1 (09h20–11h, sala 508), no Mackenzie. Hoje vencem publicação de resoluções e eventual confirmação SICFEI. Até quarta 14/10 às 12h: 32 tarefas do segundo bimestre.",
   "prioridades": [
     {
-      "titulo": "Até quarta, 14/10 às 12h — Plano do 2º bimestre",
-      "detalhe": "31 tarefas individualizadas: conteúdos, cronogramas aula a aula e Moodle de 10 disciplinas/turmas, mais prova teste de TOI sobre Lagrange. Seguir plano de execução de 11 a 14/10."
+      "titulo": "Hoje, 12/10 — publicar resoluções",
+      "detalhe": "Publicar resoluções das provas e atividades de EM I, EM II e TOI (turmas J e W); pendente de confirmação."
     },
     {
-      "titulo": "Até segunda-feira, 12/10 — publicar resoluções",
-      "detalhe": "Publicar resoluções das provas e atividades de EM I, EM II e TOI (turmas J e W)."
+      "titulo": "Hoje, 12/10 — SICFEI",
+      "detalhe": "Confirmar participação como avaliador em 22/10, somente se houver interesse."
+    },
+    {
+      "titulo": "Até quarta, 14/10 às 12h — 32 tarefas do segundo bimestre",
+      "detalhe": "Atualizar conteúdos, cronogramas aula a aula e Moodle de 10 disciplinas/turmas; prova teste TOI sobre Lagrange; atividade de derivadas MAC200."
     },
     {
       "titulo": "Mackenzie — disponibilidade docente",
       "detalhe": "Preencher no MackEdoc até 14/10."
     }
   ],
-  "agenda": [],
+  "agenda": [
+    {
+      "horario": "07:30–09:10",
+      "titulo": "Economia Matemática 2 — Mackenzie",
+      "detalhe": "Sala 506"
+    },
+    {
+      "horario": "09:20–11:00",
+      "titulo": "Economia Matemática 1 — Mackenzie",
+      "detalhe": "Sala 508"
+    }
+  ],
   "atividades": {
     "Preparação de aulas": [
       "Economia Matemática 1 (EM I) — questionário de derivadas com 20 questões cadastradas no Moodle em 10/10/2026 (concluído).",
@@ -49,7 +64,7 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "Domingo, 11/10 — sem compromissos encontrados no Google Calendar; reservar tempo para publicar as resoluções com prazo em 12/10."
+      "Segunda 12/10: aulas no Mackenzie 7h30–11h. Janela habitual 13h30–15h disponível sob consulta; compromisso familiar às 15h. Priorizar as resoluções com prazo hoje."
     ],
     "Registro de aula": [
       "09/10 — MAC200: concluída a preparação da Lista 2 de exercícios (derivadas exponenciais e logarítmicas).",
@@ -68,11 +83,9 @@
       "Mackenzie — concluído o lançamento de todas as notas das turmas de TOI e de Economia Matemática 1 e Economia Matemática 2."
     ],
     "Plano de execução — 2º bimestre": [
-      "Domingo 11/10: mapear conteúdos e aulas restantes de EM I, EM II, TOI W e TOI J; começar cronogramas; separar material da prova teste de Lagrange.",
-      "Segunda 12/10: cumprir publicação de resoluções de EM I, EM II e TOI (prazo anterior); finalizar conteúdos e cronogramas das disciplinas do Mackenzie; avançar prova teste TOI.",
-      "Terça 13/10: revisar conteúdos e construir cronogramas de MAC210, MAC200, MAM130, MAG120, NA4410 e MAE120; atualizar os respectivos Moodles, priorizando as aulas da noite.",
-      "Quarta 14/10, até 12h: concluir Moodle de todas as turmas, revisar datas e links, conferir prova teste TOI e finalizar checklist. Também vence a disponibilidade docente no MackEdoc em 14/10.",
-      "Ordem por disciplina: 1) conteúdos; 2) cronograma aula a aula; 3) Moodle; 4) verificação final. Ajustar blocos à carga de aulas e compromissos."
+      "Segunda 12/10: publicar resoluções de EM I, EM II e TOI; decidir sobre SICFEI; avançar conteúdos e cronogramas EM I, EM II e TOI J/W.",
+      "Terça 13/10: concluir conteúdos e cronogramas FEI e atualizar Moodles; elaborar atividade de derivadas MAC200. Aulas 7h30–11h e 17h20–22h50.",
+      "Quarta 14/10 até 12h: conferir os 32 itens individualizados; finalizar prova teste de Lagrange e Moodle; cumprir disponibilidade MackEdoc. Aulas FEI só a partir das 17h20."
     ]
   },
   "a_fazer": [
