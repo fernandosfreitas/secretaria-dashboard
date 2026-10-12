@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "12/10/2026 — atualização da agenda e prioridades",
-  "agora": "Segunda-feira, 12/10/2026: aulas de Economia Matemática 2 (07h30–09h10, sala 506) e Economia Matemática 1 (09h20–11h, sala 508), no Mackenzie. Hoje vencem publicação de resoluções e eventual confirmação SICFEI. Até quarta 14/10 às 12h: 32 tarefas do segundo bimestre.",
+  "atualizado_em": "12/10/2026 — correção: feriado nacional, sem aulas",
+  "agora": "Segunda-feira, 12/10/2026 — feriado nacional de Nossa Senhora Aparecida. Dia não letivo: sem aulas na FEI ou no Mackenzie. Eventos recorrentes do Google Calendar não representam aulas hoje. Pendências administrativas e prazos permanecem para acompanhamento.",
   "prioridades": [
     {
       "titulo": "Hoje, 12/10 — publicar resoluções",
@@ -19,18 +19,7 @@
       "detalhe": "Preencher no MackEdoc até 14/10."
     }
   ],
-  "agenda": [
-    {
-      "horario": "07:30–09:10",
-      "titulo": "Economia Matemática 2 — Mackenzie",
-      "detalhe": "Sala 506"
-    },
-    {
-      "horario": "09:20–11:00",
-      "titulo": "Economia Matemática 1 — Mackenzie",
-      "detalhe": "Sala 508"
-    }
-  ],
+  "agenda": [],
   "atividades": {
     "Preparação de aulas": [
       "Economia Matemática 1 (EM I) — questionário de derivadas com 20 questões cadastradas no Moodle em 10/10/2026 (concluído).",
@@ -64,7 +53,7 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "Segunda 12/10: aulas no Mackenzie 7h30–11h. Janela habitual 13h30–15h disponível sob consulta; compromisso familiar às 15h. Priorizar as resoluções com prazo hoje."
+      "Segunda 12/10 — feriado nacional, dia não letivo na FEI e no Mackenzie. Sem aulas previstas; tarefas acadêmicas podem ser realizadas conforme disponibilidade pessoal."
     ],
     "Registro de aula": [
       "09/10 — MAC200: concluída a preparação da Lista 2 de exercícios (derivadas exponenciais e logarítmicas).",
@@ -83,9 +72,9 @@
       "Mackenzie — concluído o lançamento de todas as notas das turmas de TOI e de Economia Matemática 1 e Economia Matemática 2."
     ],
     "Plano de execução — 2º bimestre": [
-      "Segunda 12/10: publicar resoluções de EM I, EM II e TOI; decidir sobre SICFEI; avançar conteúdos e cronogramas EM I, EM II e TOI J/W.",
-      "Terça 13/10: concluir conteúdos e cronogramas FEI e atualizar Moodles; elaborar atividade de derivadas MAC200. Aulas 7h30–11h e 17h20–22h50.",
-      "Quarta 14/10 até 12h: conferir os 32 itens individualizados; finalizar prova teste de Lagrange e Moodle; cumprir disponibilidade MackEdoc. Aulas FEI só a partir das 17h20."
+      "Segunda 12/10 — feriado nacional, sem aulas: se desejar trabalhar, priorizar resoluções de EM I, EM II e TOI e conteúdos/cronogramas do segundo bimestre; avaliar resposta SICFEI.",
+      "Terça 13/10: avançar conteúdos e cronogramas FEI e Mackenzie, atualizar Moodles e preparar atividade de derivadas MAC200. Aulas recorrentes 7h30–11h e 17h20–22h50, sujeitas ao calendário acadêmico.",
+      "Quarta 14/10 até 12h: finalizar e conferir 32 tarefas; preparar prova teste de TOI sobre Lagrange; preencher disponibilidade MackEdoc."
     ]
   },
   "a_fazer": [
@@ -146,6 +135,7 @@
       "Resumo com pequenas lacunas de cobertura em alguns grupos; não representa varredura integral."
     ],
     "Calendário acadêmico": [
+      "12/10/2026 — feriado nacional de Nossa Senhora Aparecida: dia não letivo na FEI e no Mackenzie; desconsiderar aulas recorrentes do Google Calendar nesta data.",
       "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
       "FEI/SP — avaliações parciais encerradas em 03/10; Congresso de Inovação e Megatendências de 20 e 21/10 cancelado, com aula normal; finais 19/11–01/12; atividades especiais 02–05/12; substitutivas 07–15/12; término do período letivo 18/12."
     ]
