@@ -1,25 +1,41 @@
 {
-  "atualizado_em": "12/10/2026 — 22h41, fechamento do feriado e preparação para 13/10",
-  "agora": "Segunda-feira, 12/10/2026, 22h41 — feriado nacional, sem aulas na FEI ou Mackenzie. Próximo dia letivo previsto: terça 13/10. Resoluções de EM I, EM II e TOI e resposta opcional ao SICFEI têm prazo original 12/10, sem conclusão confirmada. Quarta 14/10 às 12h: 32 tarefas do 2º bimestre.",
+  "atualizado_em": "13/10/2026 — 23h16, preparação para quarta-feira 14/10",
+  "agora": "Terça-feira, 13/10/2026, 23h16 — encerramento do dia. Amanhã, quarta 14/10, vencem às 12h as 32 tarefas do segundo bimestre; disponibilidade docente MackEdoc vence em 14/10 (sem horário informado). Aulas previstas na FEI à noite: NA4410 17h20, MAG120 19h20, MAE120 21h10. Nenhuma conclusão de tarefas foi presumida.",
   "prioridades": [
     {
-      "titulo": "Prazo de hoje, 12/10 — resoluções sem confirmação",
-      "detalhe": "Verificar se foram publicadas as resoluções de provas e atividades de EM I, EM II e TOI (J e W). Caso não, tratar como pendência vencida."
+      "titulo": "Amanhã, 14/10 às 12h — 32 tarefas do 2º bimestre",
+      "detalhe": "10 disciplinas/turmas: revisar conteúdos, elaborar cronogramas aula a aula e atualizar Moodles (30 itens); prova teste TOI sobre Lagrange; atividade de derivadas MAC200. Sem confirmação de conclusão."
     },
     {
-      "titulo": "Prazo de hoje, 12/10 — SICFEI (opcional)",
-      "detalhe": "Confirmar interesse em avaliar pôsteres em 22/10. Prazo original hoje; sem resposta confirmada."
+      "titulo": "Amanhã, 14/10 — MackEdoc",
+      "detalhe": "Preencher disponibilidade docente do Mackenzie; horário de vencimento não informado."
     },
     {
-      "titulo": "Até quarta, 14/10 às 12h — 32 tarefas",
-      "detalhe": "Revisar conteúdos, cronogramas e Moodles de 10 disciplinas/turmas; prova teste TOI sobre Lagrange; atividade de derivadas MAC200."
+      "titulo": "Pendência vencida desde 12/10 — resoluções",
+      "detalhe": "Confirmar publicação das resoluções de provas e atividades de EM I, EM II e TOI J/W; sem confirmação."
     },
     {
-      "titulo": "Mackenzie — disponibilidade docente",
-      "detalhe": "Preencher MackEdoc até 14/10."
+      "titulo": "SICFEI — resposta com prazo original 12/10",
+      "detalhe": "Verificar se deseja confirmar convite para avaliar pôsteres em 22/10; prazo original encerrado."
     }
   ],
-  "agenda": [],
+  "agenda": [
+    {
+      "horario": "Amanhã 17:20–19:00",
+      "titulo": "FEI — NA4410 Estatística",
+      "detalhe": "Sala B221"
+    },
+    {
+      "horario": "Amanhã 19:20–21:00",
+      "titulo": "FEI — MAG120 Vetores e Geometria Analítica",
+      "detalhe": "Sala A212"
+    },
+    {
+      "horario": "Amanhã 21:10–22:50",
+      "titulo": "FEI — MAE120 Estatística",
+      "detalhe": "Sala A209"
+    }
+  ],
   "atividades": {
     "Preparação de aulas": [
       "Economia Matemática 1 (EM I) — questionário de derivadas com 20 questões cadastradas no Moodle em 10/10/2026 (concluído).",
@@ -53,7 +69,7 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "12/10 — feriado nacional, sem aulas; às 22h41 o dia está terminando. Preparar as prioridades de terça-feira sem considerar eventos recorrentes de hoje."
+      "Terça 13/10, 23h16 — dia encerrando; preparar manhã de quarta 14/10 para os prazos das 12h."
     ],
     "Registro de aula": [
       "09/10 — MAC200: concluída a preparação da Lista 2 de exercícios (derivadas exponenciais e logarítmicas).",
@@ -72,16 +88,16 @@
       "Mackenzie — concluído o lançamento de todas as notas das turmas de TOI e de Economia Matemática 1 e Economia Matemática 2."
     ],
     "Plano de execução — 2º bimestre": [
-      "Segunda 12/10 — feriado nacional, sem aulas: se desejar trabalhar, priorizar resoluções de EM I, EM II e TOI e conteúdos/cronogramas do segundo bimestre; avaliar resposta SICFEI.",
-      "Terça 13/10: avançar conteúdos e cronogramas FEI e Mackenzie, atualizar Moodles e preparar atividade de derivadas MAC200. Aulas recorrentes 7h30–11h e 17h20–22h50, sujeitas ao calendário acadêmico.",
-      "Quarta 14/10 até 12h: finalizar e conferir 32 tarefas; preparar prova teste de TOI sobre Lagrange; preencher disponibilidade MackEdoc."
+      "Quarta 14/10, até 12h: conferir individualmente os 30 itens de conteúdos/cronogramas/Moodle das 10 disciplinas/turmas; concluir prova teste TOI/Lagrange e atividade MAC200/derivadas; nenhuma tarefa marcada concluída sem confirmação.",
+      "Quarta 14/10: preencher disponibilidade docente no MackEdoc (prazo no dia 14, horário não informado).",
+      "Quarta 14/10 à noite: aulas FEI NA4410, MAG120 e MAE120, conforme agenda recorrente e eventuais exceções acadêmicas."
     ],
-    "Próximo dia letivo — terça 13/10": [
-      "07h30–09h10 — Mackenzie: Economia Matemática 2, sala 506.",
-      "09h20–11h — Mackenzie: Economia Matemática 1, sala 508.",
-      "17h20–19h — FEI: MAM130, sala B217.",
-      "19h20–21h e 21h10–22h50 — FEI: MAC200, sala B221.",
-      "Agenda recorrente sujeita a exceções dos calendários acadêmicos."
+    "Próximo dia letivo — quarta 14/10": [
+      "Manhã: sem aulas no Google Calendar; priorizar 32 tarefas com prazo às 12h e disponibilidade docente MackEdoc.",
+      "17h20–19h — FEI: NA4410, sala B221.",
+      "19h20–21h — FEI: MAG120, sala A212.",
+      "21h10–22h50 — FEI: MAE120, sala A209.",
+      "Verificar exceções do calendário acadêmico antes de considerar aulas confirmadas."
     ]
   },
   "a_fazer": [
