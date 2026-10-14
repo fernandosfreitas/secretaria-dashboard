@@ -1,39 +1,35 @@
 {
-  "atualizado_em": "13/10/2026 — 23h16, preparação para quarta-feira 14/10",
-  "agora": "Terça-feira, 13/10/2026, 23h16 — encerramento do dia. Amanhã, quarta 14/10, vencem às 12h as 32 tarefas do segundo bimestre; disponibilidade docente MackEdoc vence em 14/10 (sem horário informado). Aulas previstas na FEI à noite: NA4410 17h20, MAG120 19h20, MAE120 21h10. Nenhuma conclusão de tarefas foi presumida.",
+  "atualizado_em": "14/10/2026 — 15h52 (horário de São Paulo)",
+  "agora": "Quarta-feira, 14/10, 15h52. Próxima aula: NA4410 às 17h20, sala B221; depois MAG120 às 19h20, sala A212, e MAE120 às 21h10, sala A209. O prazo das 32 tarefas do segundo bimestre venceu hoje às 12h, sem confirmação de conclusão. A disponibilidade docente do Mackenzie vence hoje, sem horário informado. Agenda e comunicações conforme briefing das 06h34.",
   "prioridades": [
     {
-      "titulo": "Amanhã, 14/10 às 12h — 32 tarefas do 2º bimestre",
-      "detalhe": "10 disciplinas/turmas: revisar conteúdos, elaborar cronogramas aula a aula e atualizar Moodles (30 itens); prova teste TOI sobre Lagrange; atividade de derivadas MAC200. Sem confirmação de conclusão."
+      "titulo": "Prazo vencido hoje às 12h — 32 tarefas do 2º bimestre",
+      "detalhe": "Conferir e concluir conteúdos, cronogramas e Moodles das 10 disciplinas/turmas (30 itens), teste de Lagrange de TOI e atividade de derivadas de MAC200. Sem confirmação de conclusão."
     },
     {
-      "titulo": "Amanhã, 14/10 — MackEdoc",
-      "detalhe": "Preencher disponibilidade docente do Mackenzie; horário de vencimento não informado."
+      "titulo": "Vence hoje — disponibilidade docente Mackenzie",
+      "detalhe": "Preencher no MackEdoc até 14/10; horário de encerramento não informado."
     },
     {
-      "titulo": "Pendência vencida desde 12/10 — resoluções",
-      "detalhe": "Confirmar publicação das resoluções de provas e atividades de EM I, EM II e TOI J/W; sem confirmação."
-    },
-    {
-      "titulo": "SICFEI — resposta com prazo original 12/10",
-      "detalhe": "Verificar se deseja confirmar convite para avaliar pôsteres em 22/10; prazo original encerrado."
+      "titulo": "Responder à solicitação acadêmica sobre atividades",
+      "detalhe": "Esclarecer instruções e prazos das atividades publicadas no dia não letivo. Mensagem recebida em 13/10; detalhes pessoais mantidos fora do dashboard público."
     }
   ],
   "agenda": [
     {
-      "horario": "Amanhã 17:20–19:00",
-      "titulo": "FEI — NA4410 Estatística",
-      "detalhe": "Sala B221"
+      "hora": "17:20–19:00",
+      "titulo": "NA4410 — Estatística",
+      "local": "FEI · Sala B221"
     },
     {
-      "horario": "Amanhã 19:20–21:00",
-      "titulo": "FEI — MAG120 Vetores e Geometria Analítica",
-      "detalhe": "Sala A212"
+      "hora": "19:20–21:00",
+      "titulo": "MAG120 — Vetores e Geometria Analítica",
+      "local": "FEI · Sala A212"
     },
     {
-      "horario": "Amanhã 21:10–22:50",
-      "titulo": "FEI — MAE120 Estatística",
-      "detalhe": "Sala A209"
+      "hora": "21:10–22:50",
+      "titulo": "MAE120 — Estatística",
+      "local": "FEI · Sala A209"
     }
   ],
   "atividades": {
@@ -69,7 +65,8 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "Terça 13/10, 23h16 — dia encerrando; preparar manhã de quarta 14/10 para os prazos das 12h."
+      "15:52–17:00 — janela restante antes das aulas; priorizar a disponibilidade docente e conferir as tarefas vencidas.",
+      "17:00–17:20 — preparação para NA4410."
     ],
     "Registro de aula": [
       "09/10 — MAC200: concluída a preparação da Lista 2 de exercícios (derivadas exponenciais e logarítmicas).",
@@ -88,25 +85,20 @@
       "Mackenzie — concluído o lançamento de todas as notas das turmas de TOI e de Economia Matemática 1 e Economia Matemática 2."
     ],
     "Plano de execução — 2º bimestre": [
-      "Quarta 14/10, até 12h: conferir individualmente os 30 itens de conteúdos/cronogramas/Moodle das 10 disciplinas/turmas; concluir prova teste TOI/Lagrange e atividade MAC200/derivadas; nenhuma tarefa marcada concluída sem confirmação.",
-      "Quarta 14/10: preencher disponibilidade docente no MackEdoc (prazo no dia 14, horário não informado).",
-      "Quarta 14/10 à noite: aulas FEI NA4410, MAG120 e MAE120, conforme agenda recorrente e eventuais exceções acadêmicas."
-    ],
-    "Próximo dia letivo — quarta 14/10": [
-      "Manhã: sem aulas no Google Calendar; priorizar 32 tarefas com prazo às 12h e disponibilidade docente MackEdoc.",
-      "17h20–19h — FEI: NA4410, sala B221.",
-      "19h20–21h — FEI: MAG120, sala A212.",
-      "21h10–22h50 — FEI: MAE120, sala A209.",
-      "Verificar exceções do calendário acadêmico antes de considerar aulas confirmadas."
+      "32 tarefas com prazo vencido em 14/10 às 12h: conferir conclusão de cada item; nenhuma baixa presumida.",
+      "Hoje: preencher a disponibilidade no MackEdoc e responder à solicitação sobre atividades do dia não letivo.",
+      "Correção de MAE120 permanece pendente; resoluções de Economia Matemática 1, Economia Matemática 2 e TOI com prazo original de 12/10, sem confirmação de publicação."
     ]
   },
   "a_fazer": [
+    "Mackenzie — acessar a Academia Corporativa e verificar cursos obrigatórios pendentes; prazo institucional de três meses após a admissão, sem data individual informada.",
+    "Mackenzie — responder à solicitação sobre como realizar as atividades publicadas no dia não letivo; esclarecer instruções e prazos.",
     "Publicar as resoluções das provas e das atividades de Economia Matemática 1 (EM I), Economia Matemática 2 (EM II) e TOI (turmas J e W). Prazo: segunda-feira, 12/10/2026.",
     "Responder às solicitações acadêmicas de atendimento e conteúdo de avaliação no Mackenzie.",
     "FEI — verificar e responder no Moodle à solicitação sobre vista da prova/nota de Métodos Estatísticos.",
     "Mackenzie — preencher a disponibilidade docente até 14/10.",
     "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
-    "SICFEI 2026 — convite para avaliar pôsteres em 22/10; confirmar participação até 12/10 caso queira participar.",
+    "SICFEI 2026 — participação como avaliador opcional; prazo original de confirmação em 12/10 encerrado. Verificar possibilidade somente se houver interesse.",
     "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação.",
     "FEI — divulgar aos alunos as inscrições do Sebrae Supernova até 29/10.",
     "2º bimestre — Economia Matemática 1 (EM I): revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
@@ -145,19 +137,20 @@
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "Mackenzie — solicitações individuais sobre horário de atendimento e conteúdo exato da avaliação; responder. Dados pessoais mantidos fora do dashboard público.",
-      "FEI/Moodle — verificar resposta à solicitação sobre acesso à prova/nota de Métodos Estatísticos.",
-      "Mackenzie — disponibilidade docente no MackEdoc até 14/10.",
-      "Mackenzie — notificações de novos acessos: conferir se reconhece; agir somente se não reconhecer.",
-      "FEI — SICFEI em 22/10; confirmar participação como avaliador até 12/10, caso tenha interesse."
+      "Fonte: briefing de 14/10 às 06h34; sem nova consulta direta nesta atualização.",
+      "Mackenzie — mensagem de 13/10 sobre atividades publicadas no dia não letivo: responder esclarecendo instruções e prazos.",
+      "Mackenzie — disponibilidade docente no MackEdoc vence hoje, 14/10; horário de encerramento não informado.",
+      "Mackenzie — Academia Corporativa: verificar cursos obrigatórios; prazo de três meses após a admissão, sem data individual informada.",
+      "FEI — Caminhada no Dia Rosa em 27/10 às 15h, Campus São Bernardo, encontro em frente ao Prédio A; participação opcional.",
+      "Mackenzie — impressão de gabaritos finalizada em 09/10; sem providência pendente."
     ],
     "WhatsApp": [
-      "Fonte: resumo institucional recebido pelo Gmail em 07/10 às 12:09, informado no briefing de 08/10 às 06:34.",
-      "FEI — nenhuma nova ação acadêmica identificada nessa rodada.",
-      "Mackenzie — alerta informativo sobre uso indevido do nome de professor por terceiros; nenhuma providência específica dirigida a você.",
-      "Resumo com pequenas lacunas de cobertura em alguns grupos; não representa varredura integral."
+      "Fonte: resumo institucional recebido pelo Gmail em 13/10 às 18h25, conforme briefing de hoje; sem acesso direto ao WhatsApp.",
+      "FEI — nenhuma nova solicitação ou informação acadêmica relevante identificada.",
+      "Mackenzie — início do EnAngrad 2026 em 13/10, com modalidades virtual e presencial; nenhuma providência solicitada."
     ],
     "Calendário acadêmico": [
+      "13/10/2026 — dia não letivo na FEI e no Mackenzie; aulas recorrentes desconsideradas nessa data.",
       "12/10/2026 — feriado nacional de Nossa Senhora Aparecida: dia não letivo na FEI e no Mackenzie; desconsiderar aulas recorrentes do Google Calendar nesta data.",
       "Mackenzie/Higienópolis — graduação presencial: NI1 03/10; NI2 28/11; substitutivas 30/11–05/12; finais 07–12/12; notas finais 12/12; término 19/12.",
       "FEI/SP — avaliações parciais encerradas em 03/10; Congresso de Inovação e Megatendências de 20 e 21/10 cancelado, com aula normal; finais 19/11–01/12; atividades especiais 02–05/12; substitutivas 07–15/12; término do período letivo 18/12."
