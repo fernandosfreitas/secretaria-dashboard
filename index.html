@@ -13,12 +13,15 @@ h1{font-size:1.55rem;margin:0}#refresh{border:1px solid var(--line);background:#
 h2{font-size:1rem;margin:0 0 9px}p{margin:5px 0;line-height:1.38}.item{padding:8px 0;border-top:1px solid #ffffff80}.item:first-of-type{border-top:0}
 .badge{font-size:.72rem;padding:2px 7px;border-radius:99px;background:#ffffff99;margin-left:5px}.empty{color:var(--muted);font-style:italic}
 @media(max-width:650px){main{padding:10px}.grid{grid-template-columns:1fr}.wide{grid-column:auto}.top{align-items:start;flex-direction:column}h1{font-size:1.3rem}}
+
+.checkrow{display:flex;gap:12px;align-items:flex-start;padding:10px 0;line-height:1.4}.checkrow input{width:22px;height:22px;flex-shrink:0;margin-top:2px}.checkrow:has(input:checked) span{text-decoration:line-through;color:var(--muted)}
 </style></head>
 <body><main><div class="top"><div><h1>Secretária Acadêmica</h1><div id="updated">Carregando…</div></div><button id="refresh" type="button" title="Recarregar os dados mais recentes">↻ Atualizar</button></div>
 <div class="grid">
 <section class="card agora wide"><h2>Agora</h2><div id="agora"></div></section>
 <section class="card prioridades"><h2>Prioridades</h2><div id="prioridades"></div></section>
 <section class="card hoje"><h2>Hoje</h2><div id="agenda"></div></section>
+<section class="card wide"><h2>Checklist — 32 atividades do 2º bimestre</h2><p id="checkprogress"></p><p>As marcações ficam salvas neste navegador.</p><div id="checklist"></div></section>
 <section class="card atividades wide"><h2>Atividades acadêmicas</h2><div id="atividades"></div></section>
 <section class="card"><h2>A fazer</h2><div id="afazer"></div></section>
 <section class="card"><h2>Aguardando</h2><div id="aguardando"></div></section>
@@ -35,7 +38,14 @@ list('prioridades',d.prioridades,x=>'<div class="item"><strong>'+esc(x.titulo)+'
 list('agenda',d.agenda,x=>'<div class="item"><strong>'+esc(x.hora)+' · '+esc(x.titulo)+'</strong><p>'+esc(x.local)+'</p></div>');
 let acts=[]; for(const [k,v] of Object.entries(d.atividades||{})) if(v?.length) acts.push('<div class="item"><strong>'+esc(k)+'</strong>'+v.map(x=>'<p>• '+esc(x)+'</p>').join('')+'</div>');
 document.getElementById('atividades').innerHTML=acts.join('')||'<p class="empty">Nenhuma atividade.</p>';
-list('afazer',d.a_fazer,x=>'<div class="item">'+esc(x)+'</div>'); list('aguardando',d.aguardando,x=>'<div class="item">'+esc(x)+'</div>');
+const isBimester=x=>x.startsWith('2º bimestre —')||x.startsWith('TOI — preparar a prova teste sobre o método de Lagrange')||x.startsWith('MAC200 — elaborar e disponibilizar atividade sobre derivadas');
+const tasks=(d.a_fazer||[]).filter(isBimester);
+let checked={};try{checked=JSON.parse(localStorage.getItem('secretaria-checklist-2b-2026')||'{}')||{};}catch(e){}
+const taskKey=x=>x.split('. Prazo:')[0];
+const progress=()=>document.getElementById('checkprogress').textContent=tasks.filter(x=>checked[taskKey(x)]).length+' de '+tasks.length+' concluídas';
+document.getElementById('checklist').innerHTML=tasks.map((x,i)=>'<label class="checkrow"><input type="checkbox" data-task="'+i+'" '+(checked[taskKey(x)]?'checked':'')+'><span>'+esc((i+1)+'. '+x)+'</span></label>').join('');
+document.getElementById('checklist').addEventListener('change',e=>{if(!e.target.matches('input[data-task]'))return;checked[taskKey(tasks[Number(e.target.dataset.task)])]=e.target.checked;try{localStorage.setItem('secretaria-checklist-2b-2026',JSON.stringify(checked));}catch(err){document.getElementById('checkprogress').textContent='Não foi possível salvar a marcação neste navegador.';return;}progress();});progress();
+list('afazer',(d.a_fazer||[]).filter(x=>!isBimester(x)),x=>'<div class="item">'+esc(x)+'</div>'); list('aguardando',d.aguardando,x=>'<div class="item">'+esc(x)+'</div>');
 let cs=[]; for(const [k,v] of Object.entries(d.comunicacoes||{})) if(v?.length) cs.push('<div class="item"><strong>'+esc(k)+'</strong>'+v.map(x=>'<p>• '+esc(x)+'</p>').join('')+'</div>');
 document.getElementById('comunicacoes').innerHTML=cs.join('')||'<p class="empty">Nenhuma comunicação importante.</p>';
 }).catch(()=>document.getElementById('updated').textContent='Não foi possível carregar os dados.');
