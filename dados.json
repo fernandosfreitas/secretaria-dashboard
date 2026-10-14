@@ -1,14 +1,10 @@
 {
-  "atualizado_em": "14/10/2026 — 15h52 (horário de São Paulo)",
-  "agora": "Quarta-feira, 14/10, 15h52. Próxima aula: NA4410 às 17h20, sala B221; depois MAG120 às 19h20, sala A212, e MAE120 às 21h10, sala A209. O prazo das 32 tarefas do segundo bimestre venceu hoje às 12h, sem confirmação de conclusão. A disponibilidade docente do Mackenzie vence hoje, sem horário informado. Agenda e comunicações conforme briefing das 06h34.",
+  "atualizado_em": "14/10/2026 — 15h54 (horário de São Paulo)",
+  "agora": "Quarta-feira, 14/10, 15h54. Próxima aula: NA4410 às 17h20, sala B221; depois MAG120 às 19h20, sala A212, e MAE120 às 21h10, sala A209. O prazo das 32 tarefas do segundo bimestre venceu hoje às 12h, sem confirmação de conclusão. Disponibilidade docente do Mackenzie preenchida e concluída. Agenda e comunicações conforme briefing das 06h34.",
   "prioridades": [
     {
       "titulo": "Prazo vencido hoje às 12h — 32 tarefas do 2º bimestre",
       "detalhe": "Conferir e concluir conteúdos, cronogramas e Moodles das 10 disciplinas/turmas (30 itens), teste de Lagrange de TOI e atividade de derivadas de MAC200. Sem confirmação de conclusão."
-    },
-    {
-      "titulo": "Vence hoje — disponibilidade docente Mackenzie",
-      "detalhe": "Preencher no MackEdoc até 14/10; horário de encerramento não informado."
     },
     {
       "titulo": "Responder à solicitação acadêmica sobre atividades",
@@ -65,7 +61,7 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "15:52–17:00 — janela restante antes das aulas; priorizar a disponibilidade docente e conferir as tarefas vencidas.",
+      "15:54–17:00 — janela restante antes das aulas; conferir as tarefas vencidas e responder à solicitação acadêmica.",
       "17:00–17:20 — preparação para NA4410."
     ],
     "Registro de aula": [
@@ -86,8 +82,11 @@
     ],
     "Plano de execução — 2º bimestre": [
       "32 tarefas com prazo vencido em 14/10 às 12h: conferir conclusão de cada item; nenhuma baixa presumida.",
-      "Hoje: preencher a disponibilidade no MackEdoc e responder à solicitação sobre atividades do dia não letivo.",
+      "Responder à solicitação sobre atividades do dia não letivo; disponibilidade do Mackenzie concluída.",
       "Correção de MAE120 permanece pendente; resoluções de Economia Matemática 1, Economia Matemática 2 e TOI com prazo original de 12/10, sem confirmação de publicação."
+    ],
+    "Tarefas concluídas": [
+      "14/10 — disponibilidade docente do Mackenzie preenchida; conclusão confirmada pelo professor."
     ]
   },
   "a_fazer": [
@@ -96,7 +95,6 @@
     "Publicar as resoluções das provas e das atividades de Economia Matemática 1 (EM I), Economia Matemática 2 (EM II) e TOI (turmas J e W). Prazo: segunda-feira, 12/10/2026.",
     "Responder às solicitações acadêmicas de atendimento e conteúdo de avaliação no Mackenzie.",
     "FEI — verificar e responder no Moodle à solicitação sobre vista da prova/nota de Métodos Estatísticos.",
-    "Mackenzie — preencher a disponibilidade docente até 14/10.",
     "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
     "SICFEI 2026 — participação como avaliador opcional; prazo original de confirmação em 12/10 encerrado. Verificar possibilidade somente se houver interesse.",
     "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação.",
@@ -139,7 +137,7 @@
     "E-mail": [
       "Fonte: briefing de 14/10 às 06h34; sem nova consulta direta nesta atualização.",
       "Mackenzie — mensagem de 13/10 sobre atividades publicadas no dia não letivo: responder esclarecendo instruções e prazos.",
-      "Mackenzie — disponibilidade docente no MackEdoc vence hoje, 14/10; horário de encerramento não informado.",
+      "Mackenzie — disponibilidade docente preenchida; tarefa concluída em 14/10.",
       "Mackenzie — Academia Corporativa: verificar cursos obrigatórios; prazo de três meses após a admissão, sem data individual informada.",
       "FEI — Caminhada no Dia Rosa em 27/10 às 15h, Campus São Bernardo, encontro em frente ao Prédio A; participação opcional.",
       "Mackenzie — impressão de gabaritos finalizada em 09/10; sem providência pendente."
