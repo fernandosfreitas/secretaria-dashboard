@@ -1,31 +1,35 @@
 {
-  "atualizado_em": "14/10/2026 — 18h57 (horário de São Paulo)",
-  "agora": "Quarta-feira, 14/10, 15h54. Próxima aula: NA4410 às 17h20, sala B221; depois MAG120 às 19h20, sala A212, e MAE120 às 21h10, sala A209. O prazo das 32 tarefas do segundo bimestre venceu hoje às 12h, sem confirmação de conclusão. Disponibilidade docente do Mackenzie preenchida e concluída. Agenda e comunicações conforme briefing das 06h34.",
+  "atualizado_em": "15/10/2026 — 06h47 (horário de São Paulo)",
+  "agora": "Quinta-feira, 15/10, 06h47. Próxima aula: Economia Matemática 2, 07h30–09h10, sala 506. À noite: TOI W, 19h20–21h00, sala 403; TOI J, 21h10–22h50, sala 506. Agenda e comunicações conforme briefing das 06h33. Disponibilidade Mackenzie e publicação no Moodle das resoluções das provas de Economia Matemática 2 e TOI J/W concluídas.",
   "prioridades": [
     {
-      "titulo": "Prazo vencido hoje às 12h — 32 tarefas do 2º bimestre",
-      "detalhe": "Conferir e concluir conteúdos, cronogramas e Moodles das 10 disciplinas/turmas (30 itens), teste de Lagrange de TOI e atividade de derivadas de MAC200. Sem confirmação de conclusão."
+      "titulo": "Responder às solicitações dos alunos",
+      "detalhe": "Decidir prorrogação dos formulários; esclarecer prova de sexta-feira, conteúdo e lista; conferir contestação de nota da P1 na FEI. Detalhes pessoais mantidos fora do dashboard público."
     },
     {
-      "titulo": "Responder à solicitação acadêmica sobre atividades",
-      "detalhe": "Esclarecer instruções e prazos das atividades publicadas no dia não letivo. Mensagem recebida em 13/10; detalhes pessoais mantidos fora do dashboard público."
+      "titulo": "TOI — conferir impressões para 16/10",
+      "detalhe": "Cinco pedidos de gráfica aprovados em 14/10 (M261014-0059 a 0063). Confirmar impressão e retirada; aprovação não confirma finalização."
+    },
+    {
+      "titulo": "Regularizar atualizações do 2º bimestre",
+      "detalhe": "Checklist de 32 atividades preservado; prazo original de 14/10 às 12h vencido. Conferir conclusão item a item. Correção de MAE120 permanece pendente."
     }
   ],
   "agenda": [
     {
-      "hora": "17:20–19:00",
-      "titulo": "NA4410 — Estatística",
-      "local": "FEI · Sala B221"
+      "hora": "07:30–09:10",
+      "titulo": "Economia Matemática 2",
+      "local": "Mackenzie · Sala 506"
     },
     {
       "hora": "19:20–21:00",
-      "titulo": "MAG120 — Vetores e Geometria Analítica",
-      "local": "FEI · Sala A212"
+      "titulo": "TOI — turma W",
+      "local": "Mackenzie · Sala 403"
     },
     {
       "hora": "21:10–22:50",
-      "titulo": "MAE120 — Estatística",
-      "local": "FEI · Sala A209"
+      "titulo": "TOI — turma J",
+      "local": "Mackenzie · Sala 506"
     }
   ],
   "atividades": {
@@ -44,7 +48,7 @@
       "MAE120"
     ],
     "Próxima prova": [
-      "Nenhuma prova futura confirmada neste painel; Teste 3 de EM I foi aplicado em 09/10."
+      "16/10 — testes de TOI mencionados nos pedidos de gráfica; confirmar cópias e orientações antes da aplicação."
     ],
     "Calendário Mackenzie — próximos marcos": [
       "28/11 — limite para lançamento da NI2.",
@@ -61,8 +65,10 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "15:54–17:00 — janela restante antes das aulas; conferir as tarefas vencidas e responder à solicitação acadêmica.",
-      "17:00–17:20 — preparação para NA4410."
+      "09:10–11:30 — responder às solicitações dos alunos, conferir gráfica e contestação de nota.",
+      "11:30–13:00 — almoço.",
+      "13:00–17:00 — avançar nas atualizações acadêmicas atrasadas.",
+      "17:00–19:00 — preparação para TOI W e J; permanece no Mackenzie, sem deslocamento entre instituições."
     ],
     "Registro de aula": [
       "09/10 — MAC200: concluída a preparação da Lista 2 de exercícios (derivadas exponenciais e logarítmicas).",
@@ -81,7 +87,7 @@
       "Mackenzie — concluído o lançamento de todas as notas das turmas de TOI e de Economia Matemática 1 e Economia Matemática 2."
     ],
     "Plano de execução — 2º bimestre": [
-      "32 tarefas com prazo vencido em 14/10 às 12h: conferir conclusão de cada item; nenhuma baixa presumida.",
+      "Checklist de 32 atividades com prazo original vencido em 14/10 às 12h: conferir conclusão individual. Pedidos de impressão de testes TOI aprovados; não se presume conclusão integral do item a partir dessa aprovação.",
       "Responder à solicitação sobre atividades do dia não letivo; disponibilidade do Mackenzie concluída.",
       "Correção de MAE120 permanece pendente; publicação das resoluções de Economia Matemática 1 com prazo original de 12/10, sem confirmação. Publicação no Moodle das resoluções das provas de Economia Matemática 2 e TOI J/W concluída em 14/10."
     ],
@@ -91,11 +97,16 @@
     ]
   },
   "a_fazer": [
+    "Mackenzie — decidir e responder à solicitação de prorrogação dos formulários teste publicados durante o feriado.",
+    "Mackenzie — esclarecer prova de sexta-feira, 16/10, conteúdo e lista disponível no Moodle.",
+    "FEI — conferir prova e lançamento da P1 contestada com nota 0,00; responder após revisão.",
+    "Mackenzie — confirmar impressão e retirada dos pedidos M261014-0059 a 0063 para testes de TOI em 16/10.",
+    "Mackenzie — verificar e votar na enquete separada de horários solicitada pela coordenação; resposta sobre dias preenchidos já confirmada, voto nessa enquete não confirmado.",
     "Mackenzie — acessar a Academia Corporativa e verificar cursos obrigatórios pendentes; prazo institucional de três meses após a admissão, sem data individual informada.",
     "Mackenzie — responder à solicitação sobre como realizar as atividades publicadas no dia não letivo; esclarecer instruções e prazos.",
     "Publicar as resoluções das provas e das atividades de Economia Matemática 1 (EM I). Prazo original: 12/10/2026. Economia Matemática 2 e TOI J/W: publicação das resoluções das provas no Moodle concluída em 14/10.",
     "Responder às solicitações acadêmicas de atendimento e conteúdo de avaliação no Mackenzie.",
-    "FEI — verificar e responder no Moodle à solicitação sobre vista da prova/nota de Métodos Estatísticos.",
+    "FEI — verificar se a consulta à prova de Métodos Estatísticos ocorreu em 14/10; se não, combinar outra oportunidade.",
     "Mackenzie — responder o Censo de Internacionalização Docente; prazo não informado.",
     "SICFEI 2026 — participação como avaliador opcional; prazo original de confirmação em 12/10 encerrado. Verificar possibilidade somente se houver interesse.",
     "FEI — verificar no Moodle a mensagem sobre contato com Ariovaldo e a P1 de Cálculo; responder após conferir a situação.",
@@ -136,17 +147,22 @@
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "Fonte: briefing de 14/10 às 06h34; sem nova consulta direta nesta atualização.",
-      "Mackenzie — mensagem de 13/10 sobre atividades publicadas no dia não letivo: responder esclarecendo instruções e prazos.",
-      "Mackenzie — disponibilidade docente preenchida; tarefa concluída em 14/10.",
-      "Mackenzie — Academia Corporativa: verificar cursos obrigatórios; prazo de três meses após a admissão, sem data individual informada.",
-      "FEI — Caminhada no Dia Rosa em 27/10 às 15h, Campus São Bernardo, encontro em frente ao Prédio A; participação opcional.",
-      "Mackenzie — impressão de gabaritos finalizada em 09/10; sem providência pendente."
+      "Fonte: briefing de 15/10 às 06h33; sem nova consulta direta nesta atualização.",
+      "Mackenzie — representante solicita prorrogação dos formulários teste do feriado; decidir e responder.",
+      "Mackenzie — aluno pergunta sobre prova de sexta-feira, conteúdo e lista; esclarecer antes de 16/10.",
+      "FEI — contestação de nota 0,00 na P1; conferir prova e lançamento e responder.",
+      "FEI — solicitação de consulta à prova de Métodos Estatísticos em 14/10; confirmar se ocorreu ou combinar oportunidade.",
+      "Mackenzie — cinco pedidos de gráfica M261014-0059 a 0063 aprovados; confirmar finalização e retirada para 16/10.",
+      "FEI — manutenção preventiva em 18/10, 07h–17h, com suspensão de energia no campus informado; evitar perecíveis nas geladeiras.",
+      "Mackenzie — Workshop Copilot em 21/10, 16h–17h30, virtual; participação opcional.",
+      "Mackenzie — reajuste e campanha de alteração do plano de saúde; prazo ausente no corpo recebido, consultar PDF se houver interesse.",
+      "Mackenzie — normas, monitoria e MackMentoring 2027: nenhuma providência pessoal explícita identificada."
     ],
     "WhatsApp": [
-      "Fonte: resumo institucional recebido pelo Gmail em 13/10 às 18h25, conforme briefing de hoje; sem acesso direto ao WhatsApp.",
-      "FEI — nenhuma nova solicitação ou informação acadêmica relevante identificada.",
-      "Mackenzie — início do EnAngrad 2026 em 13/10, com modalidades virtual e presencial; nenhuma providência solicitada."
+      "Fonte: resumos recebidos pelo Gmail, última rodada de 14/10 às 18h17, conforme briefing de hoje; sem acesso direto ao WhatsApp.",
+      "FEI — nenhuma nova solicitação nos grupos acompanhados.",
+      "Mackenzie — solicitação de voto em enquete separada de horários; resposta sobre dias preenchidos confirmada, voto não confirmado.",
+      "Mackenzie — comunicado de semana de evento: primeira aula normal e segunda destinada ao evento para parte das turmas, com exceções; datas e detalhes finais ainda não confirmados."
     ],
     "Calendário acadêmico": [
       "13/10/2026 — dia não letivo na FEI e no Mackenzie; aulas recorrentes desconsideradas nessa data.",
