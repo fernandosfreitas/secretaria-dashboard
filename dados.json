@@ -1,35 +1,45 @@
 {
-  "atualizado_em": "15/10/2026 — 06h47 (horário de São Paulo)",
-  "agora": "Quinta-feira, 15/10, 06h47. Próxima aula: Economia Matemática 2, 07h30–09h10, sala 506. À noite: TOI W, 19h20–21h00, sala 403; TOI J, 21h10–22h50, sala 506. Agenda e comunicações conforme briefing das 06h33. Disponibilidade Mackenzie e publicação no Moodle das resoluções das provas de Economia Matemática 2 e TOI J/W concluídas.",
+  "atualizado_em": "16/10/2026 — 06h50 (horário de São Paulo)",
+  "agora": "Sexta-feira, 16/10, 06h50. Economia Matemática 1 às 09h20, sala 508; MAC210 na FEI às 13h40, sala A209; TOI W às 19h20, sala 402, e TOI J às 21h10, sala 504, no Mackenzie. Conferir retirada dos testes de TOI: impressão finalizada em 15/10. Fonte: briefing das 06h33; eventos recorrentes do Calendar, sem verificação independente de alterações institucionais.",
   "prioridades": [
     {
-      "titulo": "Responder às solicitações dos alunos",
-      "detalhe": "Decidir prorrogação dos formulários; esclarecer prova de sexta-feira, conteúdo e lista; conferir contestação de nota da P1 na FEI. Detalhes pessoais mantidos fora do dashboard público."
+      "titulo": "TOI — retirar provas para hoje",
+      "detalhe": "Cinco pedidos M261014-0059 a 0063 finalizados em 15/10. Retirada ainda não confirmada."
     },
     {
-      "titulo": "TOI — conferir impressões para 16/10",
-      "detalhe": "Cinco pedidos de gráfica aprovados em 14/10 (M261014-0059 a 0063). Confirmar impressão e retirada; aprovação não confirma finalização."
+      "titulo": "Responder às solicitações acadêmicas",
+      "detalhe": "Revisão da P1 na FEI e datas dos testes da turma J; solicitações anteriores de prorrogação, conteúdo e revisão de nota ainda sem confirmação de resposta."
     },
     {
-      "titulo": "Regularizar atualizações do 2º bimestre",
-      "detalhe": "Checklist de 32 atividades preservado; prazo original de 14/10 às 12h vencido. Conferir conclusão item a item. Correção de MAE120 permanece pendente."
+      "titulo": "Semana de Ciência e Tecnologia — antes de 19/10",
+      "detalhe": "Conferir planilha atualizada, turmas, salas e atribuições. Acompanhar turmas e controlar presença após apresentações."
     }
   ],
   "agenda": [
     {
-      "hora": "07:30–09:10",
-      "titulo": "Economia Matemática 2",
-      "local": "Mackenzie · Sala 506"
+      "hora": "09:20–11:00",
+      "titulo": "Economia Matemática 1",
+      "local": "Mackenzie · Sala 508"
+    },
+    {
+      "hora": "13:40–15:20",
+      "titulo": "MAC210",
+      "local": "FEI · Sala A209"
+    },
+    {
+      "hora": "15:30–17:10",
+      "titulo": "MAC210",
+      "local": "FEI · Sala A209"
     },
     {
       "hora": "19:20–21:00",
       "titulo": "TOI — turma W",
-      "local": "Mackenzie · Sala 403"
+      "local": "Mackenzie · Sala 402"
     },
     {
       "hora": "21:10–22:50",
       "titulo": "TOI — turma J",
-      "local": "Mackenzie · Sala 506"
+      "local": "Mackenzie · Sala 504"
     }
   ],
   "atividades": {
@@ -48,7 +58,7 @@
       "MAE120"
     ],
     "Próxima prova": [
-      "16/10 — testes de TOI mencionados nos pedidos de gráfica; confirmar cópias e orientações antes da aplicação."
+      "Hoje, 16/10 — testes de TOI W e J; impressões finalizadas, retirada sem confirmação."
     ],
     "Calendário Mackenzie — próximos marcos": [
       "28/11 — limite para lançamento da NI2.",
@@ -65,10 +75,9 @@
       "18/12 — término do período letivo."
     ],
     "Janelas livres de hoje": [
-      "09:10–11:30 — responder às solicitações dos alunos, conferir gráfica e contestação de nota.",
-      "11:30–13:00 — almoço.",
-      "13:00–17:00 — avançar nas atualizações acadêmicas atrasadas.",
-      "17:00–19:00 — preparação para TOI W e J; permanece no Mackenzie, sem deslocamento entre instituições."
+      "11:00–13:40 — retirar provas de TOI, almoçar e reservar 30 minutos para Mackenzie → FEI.",
+      "17:10–18:00 — deslocamento FEI → Mackenzie, aproximadamente 45 minutos.",
+      "18:00–19:20 — conferir materiais das turmas W e J e preparar aplicação dos testes."
     ],
     "Registro de aula": [
       "09/10 — MAC200: concluída a preparação da Lista 2 de exercícios (derivadas exponenciais e logarítmicas).",
@@ -87,9 +96,10 @@
       "Mackenzie — concluído o lançamento de todas as notas das turmas de TOI e de Economia Matemática 1 e Economia Matemática 2."
     ],
     "Plano de execução — 2º bimestre": [
-      "Checklist de 32 atividades com prazo original vencido em 14/10 às 12h: conferir conclusão individual. Pedidos de impressão de testes TOI aprovados; não se presume conclusão integral do item a partir dessa aprovação.",
-      "Responder à solicitação sobre atividades do dia não letivo; disponibilidade do Mackenzie concluída.",
-      "Correção de MAE120 permanece pendente; publicação das resoluções de Economia Matemática 1 com prazo original de 12/10, sem confirmação. Publicação no Moodle das resoluções das provas de Economia Matemática 2 e TOI J/W concluída em 14/10."
+      "Executar as 32 atividades antes das próximas aulas correspondentes, conforme orientação de 15/10. Prazo original de 14/10 às 12h vencido.",
+      "Ordem de preparação a partir de hoje: Economia Matemática 1 → MAC210 → TOI W → TOI J → Economia Matemática 2 (19/10) → MAM130 e MAC200 (20/10) → NA4410, MAG120 e MAE120 (21/10). Conferir a planilha SCT para alterações no Mackenzie.",
+      "Teste TOI: impressão finalizada em 15/10; conferir retirada e aplicação. Não se presume conclusão do checklist sem confirmação.",
+      "Correção de MAE120 e publicação das resoluções de Economia Matemática 1 permanecem sem confirmação de conclusão."
     ],
     "Tarefas concluídas": [
       "14/10 — disponibilidade docente do Mackenzie preenchida; conclusão confirmada pelo professor.",
@@ -97,10 +107,13 @@
     ]
   },
   "a_fazer": [
+    "FEI — revisar a P1 solicitada em 15/10 e combinar atendimento para esclarecer a correção.",
+    "Mackenzie — confirmar e informar as datas dos testes da turma J.",
+    "Mackenzie — conferir planilha atualizada da SCT antes de 19/10: turmas, salas, apresentações atribuídas e controle de presença.",
     "Mackenzie — decidir e responder à solicitação de prorrogação dos formulários teste publicados durante o feriado.",
     "Mackenzie — esclarecer prova de sexta-feira, 16/10, conteúdo e lista disponível no Moodle.",
     "FEI — conferir prova e lançamento da P1 contestada com nota 0,00; responder após revisão.",
-    "Mackenzie — confirmar impressão e retirada dos pedidos M261014-0059 a 0063 para testes de TOI em 16/10.",
+    "Mackenzie — retirar os testes de TOI e folhas de respostas para hoje, 16/10; pedidos M261014-0059 a 0063 finalizados em 15/10.",
     "Mackenzie — verificar e votar na enquete separada de horários solicitada pela coordenação; resposta sobre dias preenchidos já confirmada, voto nessa enquete não confirmado.",
     "Mackenzie — acessar a Academia Corporativa e verificar cursos obrigatórios pendentes; prazo institucional de três meses após a admissão, sem data individual informada.",
     "Mackenzie — responder à solicitação sobre como realizar as atividades publicadas no dia não letivo; esclarecer instruções e prazos.",
@@ -114,55 +127,53 @@
     "2º bimestre — Economia Matemática 1 (EM I): revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
     "2º bimestre — Economia Matemática 1 (EM I): elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
     "2º bimestre — Economia Matemática 1 (EM I): atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
-    "2º bimestre — Economia Matemática 2 (EM II): revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — Economia Matemática 2 (EM II): elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — Economia Matemática 2 (EM II): atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
-    "2º bimestre — TOI — turma W: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — TOI — turma W: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — TOI — turma W: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
-    "2º bimestre — TOI — turma J: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — TOI — turma J: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — TOI — turma J: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
     "2º bimestre — MAC210: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
     "2º bimestre — MAC210: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
     "2º bimestre — MAC210: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
-    "2º bimestre — MAC200: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — MAC200: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — MAC200: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma W: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma W: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma W: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "TOI — preparar a prova teste sobre o método de Lagrange (turmas W e J; conferir se serão versões diferentes). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma J: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma J: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — TOI — turma J: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — Economia Matemática 2 (EM II): revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — Economia Matemática 2 (EM II): elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — Economia Matemática 2 (EM II): atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
     "2º bimestre — MAM130: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
     "2º bimestre — MAM130: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
     "2º bimestre — MAM130: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
-    "2º bimestre — MAG120: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — MAG120: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — MAG120: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC200: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC200: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAC200: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "MAC200 — elaborar e disponibilizar atividade sobre derivadas no Moodle. Prazo: 14/10/2026, 12h (junto ao plano do 2º bimestre).",
     "2º bimestre — NA4410: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
     "2º bimestre — NA4410: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
     "2º bimestre — NA4410: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAG120: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAG120: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
+    "2º bimestre — MAG120: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
     "2º bimestre — MAE120: revisar e atualizar os conteúdos programáticos. Prazo: 14/10/2026, 12h.",
     "2º bimestre — MAE120: elaborar cronograma aula a aula até o fim do semestre. Prazo: 14/10/2026, 12h.",
-    "2º bimestre — MAE120: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h.",
-    "TOI — preparar a prova teste sobre o método de Lagrange (turmas W e J; conferir se serão versões diferentes). Prazo: 14/10/2026, 12h.",
-    "MAC200 — elaborar e disponibilizar atividade sobre derivadas no Moodle. Prazo: 14/10/2026, 12h (junto ao plano do 2º bimestre)."
+    "2º bimestre — MAE120: atualizar Moodle (tópicos, materiais, atividades e datas). Prazo: 14/10/2026, 12h."
   ],
   "aguardando": [],
   "comunicacoes": {
     "E-mail": [
-      "Fonte: briefing de 15/10 às 06h33; sem nova consulta direta nesta atualização.",
-      "Mackenzie — representante solicita prorrogação dos formulários teste do feriado; decidir e responder.",
-      "Mackenzie — aluno pergunta sobre prova de sexta-feira, conteúdo e lista; esclarecer antes de 16/10.",
-      "FEI — contestação de nota 0,00 na P1; conferir prova e lançamento e responder.",
-      "FEI — solicitação de consulta à prova de Métodos Estatísticos em 14/10; confirmar se ocorreu ou combinar oportunidade.",
-      "Mackenzie — cinco pedidos de gráfica M261014-0059 a 0063 aprovados; confirmar finalização e retirada para 16/10.",
-      "FEI — manutenção preventiva em 18/10, 07h–17h, com suspensão de energia no campus informado; evitar perecíveis nas geladeiras.",
-      "Mackenzie — Workshop Copilot em 21/10, 16h–17h30, virtual; participação opcional.",
-      "Mackenzie — reajuste e campanha de alteração do plano de saúde; prazo ausente no corpo recebido, consultar PDF se houver interesse.",
-      "Mackenzie — normas, monitoria e MackMentoring 2027: nenhuma providência pessoal explícita identificada."
+      "Fonte: briefing de 16/10 às 06h33 fornecido nesta conversa; sem nova consulta direta nesta atualização.",
+      "FEI — mensagens duplicadas sobre revisão da P1 consolidadas: revisar questões de interpretação gráfica da derivada e combinar atendimento; detalhes pessoais fora do dashboard público.",
+      "Mackenzie — solicitação das datas dos testes da turma J; confirmar e responder.",
+      "Mackenzie — SCT de 19 a 23/10: conferir planilha anexa antes de 19/10; acompanhar turmas, controlar presença e verificar atribuições como apresentador.",
+      "Mackenzie — cinco pedidos de gráfica M261014-0059 a 0063 finalizados em 15/10; confirmar retirada para provas de hoje.",
+      "Mackenzie — novo fator de autenticação TOVS: sem data de implantação ou providência imediata no texto recebido.",
+      "Mackenzie — palestras opcionais Outubro Rosa hoje às 10h e 14h; coincidem com aulas.",
+      "FEI — manutenção preventiva em 18/10, 07h–17h, com suspensão de energia no campus informado; evitar perecíveis nas geladeiras."
     ],
     "WhatsApp": [
-      "Fonte: resumos recebidos pelo Gmail, última rodada de 14/10 às 18h17, conforme briefing de hoje; sem acesso direto ao WhatsApp.",
-      "FEI — nenhuma nova solicitação nos grupos acompanhados.",
-      "Mackenzie — solicitação de voto em enquete separada de horários; resposta sobre dias preenchidos confirmada, voto não confirmado.",
-      "Mackenzie — comunicado de semana de evento: primeira aula normal e segunda destinada ao evento para parte das turmas, com exceções; datas e detalhes finais ainda não confirmados."
+      "Fonte: resumos recebidos pelo Gmail; última rodada de 16/10 às 00h32. Sem acesso direto ao WhatsApp.",
+      "FEI — nenhum novo comunicado acadêmico relevante identificado.",
+      "Mackenzie — planilha SCT atualizada: conferir turmas, salas e atribuições antes de 19/10; providência consolidada com e-mail.",
+      "Mackenzie — SCT no segundo horário das turmas do 1º ao 5º semestre, no Prédio 45 e auditórios indicados na planilha."
     ],
     "Calendário acadêmico": [
       "13/10/2026 — dia não letivo na FEI e no Mackenzie; aulas recorrentes desconsideradas nessa data.",
