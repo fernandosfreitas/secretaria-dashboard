@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/10/2026 — atualização conforme briefing das 06h30",
+  "atualizado_em": "31/10/2026 — atualização de TOI turma W; demais seções mantêm a atualização de 27/10",
   "agora": "Terça-feira, 27/10 — CADI vence hoje, caso haja dados a declarar. Aulas: Economia Matemática 2 às 07h30 e Economia Matemática 1 às 09h20 no Mackenzie; MAM130 às 17h20 e MAC200 às 19h20 e 21h10 na FEI. Amanhã, 28/10, NA4410 não terá aula por evento dos alunos. Fonte: briefing de hoje; sem nova consulta direta ao Gmail ou Calendar nesta atualização.",
   "prioridades": [
     {
@@ -51,7 +51,7 @@
       "Economia Matemática 1 (EM I) — questionário de derivadas com 20 questões cadastradas no Moodle em 10/10/2026 (concluído).",
       "MAC200 — Lista 2 de exercícios sobre derivadas de funções exponenciais e logarítmicas concluída.",
       "MAM130 — 06/10: sistemas lineares. Próxima aula: Atividade do Jardineiro; alunos orientados a estudar sistemas lineares.",
-      "TOI W — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
+      "TOI W — última aula registrada: 30/10/2026, integração por partes. Próxima aula prevista: 05/11, integração por substituição. Demais encontros no planejamento de TOI — turma W.",
       "TOI J — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
       "MAC210 — 09/10: regras do produto e do quociente concluídas. Próxima aula: regra da cadeia."
     ],
@@ -81,6 +81,7 @@
       "13:30–16:45 — preparação de MAM130 e MAC200 e providências de TOI; preservar margem antes das 17:20."
     ],
     "Registro de aula": [
+      "30/10/2026 — TOI — turma W: integração por partes. Aula realizada, conforme confirmação do professor.",
       "26/10/2026 — Economia Matemática 1: gráficos e derivadas de segunda ordem. Ficou pendente fazer o gráfico com estudo da concavidade.",
       "26/10/2026 — Economia Matemática 2: Lagrangeano e condições de KKT. Ficou pendente resolver os exemplos 3 e 4.",
       "21/10 — MAG120: problemas sobre retas e posições relativas entre retas, com a lista publicada no Moodle no mesmo dia. Próxima aula: continuar a partir do exercício 13.",
@@ -129,6 +130,16 @@
       "NA4410 — sem aula: alunos participarão de evento; não é ausência do professor.",
       "MAG120 — próximo passo registrado: continuar a lista de retas e posições relativas a partir do exercício 13.",
       "MAE120 — Modelos Probabilísticos: resolver o exemplo 2 de testes de hipótese. Horários de amanhã não consultados nesta atualização."
+    ],
+    "TOI — turma W — previsão das próximas aulas": [
+      "Planejamento informado pelo professor em 31/10/2026. As datas abaixo são previsões; não representam aulas já ministradas ou avaliações já aplicadas.",
+      "05/11/2026 — Integração por substituição.",
+      "06/11/2026 — Teste / Integral definida — área.",
+      "12/11/2026 — Não tem aula.",
+      "13/11/2026 — Integral definida.",
+      "19/11/2026 — Teste / Aplicações de integrais definidas na economia.",
+      "26/11/2026 — Prova.",
+      "27/11/2026 — Teste."
     ]
   },
   "a_fazer": [
