@@ -4,7 +4,7 @@
   "prioridades": [
     {
       "titulo": "Preparar as aulas de hoje",
-      "detalhe": "Economia Matemática 2: exemplos 3 e 4 de KKT. Economia Matemática 1: gráfico e concavidade. MAM130: programação linear manual e GeoGebra. MAC200: iniciar integrais."
+      "detalhe": "Economia Matemática 2: aula de primitivas e integrais registrada; pendente ∫x²eˣ dx, depois integração de funções compostas. Economia Matemática 1: gráfico e concavidade. MAM130: programação linear manual e GeoGebra. MAC200: iniciar integrais."
     },
     {
       "titulo": "CPA — conferir Professores Facilitadores-CCSA.xlsx",
@@ -44,12 +44,12 @@
   ],
   "atividades": {
     "Preparação de aulas": [
+      "Economia Matemática 2 — 03/11: primitivas e integrais, até integração por partes. Próxima aula: resolver ∫x²eˣ dx e, em seguida, integração de funções compostas.",
       "MAM130 — 27/10: programação linear com resolução no GeoGebra. Próxima aula: resolver exercício manualmente e depois mostrar no GeoGebra.",
       "MAC200 — 27/10: construção de gráficos com primeira e segunda derivadas. Próxima aula: iniciar integrais.",
       "MAG120 — 28/10: exercícios de posições relativas entre retas. Próxima aula: exercícios de plano.",
       "MAE120 — 28/10: exercícios de testes de hipótese para média. Próxima aula: testes de hipótese para duas populações.",
       "Economia Matemática 1 — 26/10: gráficos e derivadas de segunda ordem. Próxima aula: fazer o gráfico com estudo da concavidade.",
-      "Economia Matemática 2 — 26/10: Lagrangeano e condições de KKT. Próxima aula: resolver os exemplos 3 e 4.",
       "Economia Matemática 1 (EM I) — questionário de derivadas com 20 questões cadastradas no Moodle em 10/10/2026 (concluído).",
       "TOI W — última aula registrada: 30/10/2026, integração por partes. Próxima aula prevista: 05/11, integração por substituição. Demais encontros no planejamento de TOI — turma W.",
       "TOI J — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
@@ -80,6 +80,7 @@
       "13:30–16:45 — preparar MAM130 e MAC200, preservando margem antes das 17:20."
     ],
     "Registro de aula": [
+      "03/11/2026 — Economia Matemática 2: primitivas e integrais, até integração por partes. Ficou pendente resolver a integral de x²eˣ. Próximo tema: integração de funções compostas.",
       "28/10/2026 — MAE120: exercícios de testes de hipótese para média. Próxima aula: testes de hipótese para duas populações.",
       "28/10/2026 — MAG120: exercícios de posições relativas entre retas. Próxima aula: exercícios de plano.",
       "27/10/2026 — MAC200: gráficos com primeira e segunda derivadas. Próxima aula: integrais.",
