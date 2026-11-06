@@ -4,7 +4,7 @@
   "prioridades": [
     {
       "titulo": "Confirmar avaliações de novembro",
-      "detalhe": "Mensagens mencionam teste de gráficos hoje, integrais em 10/11, derivadas em 13/11 e integrais em 24/11. Conferir Moodle e responder; datas ainda não confirmadas. TOI W tem teste previsto hoje no planejamento."
+      "detalhe": "Mensagens mencionam teste de gráficos hoje, integrais em 10/11, derivadas em 13/11 e integrais em 24/11. Conferir Moodle e responder; datas ainda não confirmadas. TOI W e J: teste de derivadas hoje, confirmado pelo professor."
     },
     {
       "titulo": "Responder à nova solicitação de vista de prova",
@@ -12,7 +12,7 @@
     },
     {
       "titulo": "Preparar MAC210 e TOI",
-      "detalhe": "MAC210: iniciar integrais. TOI W: conferir teste previsto e integral definida/área. TOI J: conferir último ponto registrado. Economia Matemática 1: gráficos e concavidade, caso não haja avaliação."
+      "detalhe": "MAC210: iniciar integrais. TOI W e J: aplicar teste sobre derivadas; turma J também terá vista de prova. Economia Matemática 1: gráficos e concavidade, caso não haja avaliação."
     }
   ],
   "agenda": [
@@ -44,6 +44,8 @@
   ],
   "atividades": {
     "Preparação de aulas": [
+      "TOI W — 05/11: vista de prova, funções compostas e integração por substituição. Em 06/11: aplicação prevista de teste sobre derivadas.",
+      "TOI J — 05/11: funções compostas e integração por substituição, sem vista de prova. Em 06/11: vista de prova e aplicação prevista de teste sobre derivadas.",
       "Economia Matemática 2 — 05/11: vista de prova. Próxima aula: integração de funções compostas e regra de substituição.",
       "MAM130 — 27/10: programação linear com resolução no GeoGebra. Próxima aula: resolver exercício manualmente e depois mostrar no GeoGebra.",
       "MAC200 — 27/10: construção de gráficos com primeira e segunda derivadas. Próxima aula: iniciar integrais.",
@@ -51,15 +53,13 @@
       "MAE120 — 28/10: exercícios de testes de hipótese para média. Próxima aula: testes de hipótese para duas populações.",
       "Economia Matemática 1 — 26/10: gráficos e derivadas de segunda ordem. Próxima aula: fazer o gráfico com estudo da concavidade.",
       "Economia Matemática 1 (EM I) — questionário de derivadas com 20 questões cadastradas no Moodle em 10/10/2026 (concluído).",
-      "TOI W — última aula registrada: 30/10/2026, integração por partes. Próxima aula prevista: 05/11, integração por substituição. Demais encontros no planejamento de TOI — turma W.",
-      "TOI J — a aula de 01/10 foi destinada à apresentação das provas; para conteúdo, permanece válido o último registro anterior.",
       "MAC210 — 30/10/2026: gráficos (aula realizada). Próxima aula: integrais. Regra da cadeia e diferencial já ministrados, conforme confirmação do professor."
     ],
     "Correção de provas": [
       "MAE120"
     ],
     "Próxima prova": [
-      "06/11 — TOI W: teste / integral definida e área previsto no planejamento; aplicação não confirmada.",
+      "06/11 — TOI turmas W e J: aplicação de teste sobre derivadas prevista e confirmada pelo professor; aplicação ainda não registrada como realizada.",
       "Mensagens de aluna mencionam 06/11 (gráficos), 10/11 (integrais), 13/11 (derivadas) e 24/11 (integrais). Conferir disciplina, programação e Moodle antes de tratar como datas confirmadas.",
       "TOI W — planejamento: teste e aplicações econômicas em 19/11; prova em 26/11; teste em 27/11."
     ],
@@ -83,6 +83,8 @@
       "18:00–19:00 — conferir materiais e avaliação de TOI, preservando margem até 19:20."
     ],
     "Registro de aula": [
+      "05/11/2026 — TOI turma W: vista de prova; em seguida, integração de funções compostas e regra de integração por substituição.",
+      "05/11/2026 — TOI turma J: integração de funções compostas e regra de integração por substituição. Vista de prova adiada para 06/11.",
       "05/11/2026 — Economia Matemática 2: vista de prova. Próxima aula: integração de funções compostas e regra de substituição.",
       "03/11/2026 — Economia Matemática 2: primitivas e integrais, até integração por partes. Ficou pendente resolver a integral de x²eˣ. Próximo tema: integração de funções compostas.",
       "28/10/2026 — MAE120: exercícios de testes de hipótese para média. Próxima aula: testes de hipótese para duas populações.",
@@ -129,8 +131,8 @@
     ],
     "TOI — turma W — previsão das próximas aulas": [
       "Planejamento informado pelo professor em 31/10/2026. As datas abaixo são previsões; não representam aulas já ministradas ou avaliações já aplicadas.",
-      "05/11/2026 — Integração por substituição.",
-      "06/11/2026 — Teste / Integral definida — área.",
+      "05/11/2026 — realizada vista de prova e integração de funções compostas por substituição; ver Diário de Aula.",
+      "06/11/2026 — teste sobre derivadas, conforme atualização do professor; substitui a previsão anterior de teste / integral definida e área.",
       "12/11/2026 — Não tem aula.",
       "13/11/2026 — Integral definida.",
       "19/11/2026 — Teste / Aplicações de integrais definidas na economia.",
