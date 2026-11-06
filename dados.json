@@ -3,8 +3,8 @@
   "agora": "Sexta-feira, 06/11 — Economia Matemática 1 às 09h20, sala 508; MAC210 às 13h40 e 15h30 na FEI, sala A209; TOI W às 19h20, sala 402, e TOI J às 21h10, sala 504. Confirmar avaliações mencionadas para 06, 10, 13 e 24/11 e nova solicitação de vista de prova. Fonte: briefing fornecido nesta conversa; sem nova consulta direta às fontes nesta atualização.",
   "prioridades": [
     {
-      "titulo": "Confirmar avaliações de novembro",
-      "detalhe": "Mensagens mencionam teste de gráficos hoje, integrais em 10/11, derivadas em 13/11 e integrais em 24/11. Conferir Moodle e responder; datas ainda não confirmadas. TOI W e J: teste de derivadas hoje, confirmado pelo professor."
+      "titulo": "Avaliações de hoje — 06/11",
+      "detalhe": "Economia Matemática 1: teste de gráficos. TOI W e J: teste de derivadas. Programação confirmada pelo professor; aplicação ainda não registrada."
     },
     {
       "titulo": "Responder à nova solicitação de vista de prova",
@@ -60,7 +60,6 @@
     ],
     "Próxima prova": [
       "06/11 — TOI turmas W e J: aplicação de teste sobre derivadas prevista e confirmada pelo professor; aplicação ainda não registrada como realizada.",
-      "Mensagens de aluna mencionam 06/11 (gráficos), 10/11 (integrais), 13/11 (derivadas) e 24/11 (integrais). Conferir disciplina, programação e Moodle antes de tratar como datas confirmadas.",
       "TOI W — planejamento: teste e aplicações econômicas em 19/11; prova em 26/11; teste em 27/11."
     ],
     "Calendário Mackenzie — próximos marcos": [
@@ -148,12 +147,19 @@
       "TOI J — entrega de atividades do regime especial teve prazo em 04/11; conferir entregas na secretaria desde 05/11.",
       "CPA — encontro teve prazo em 05/11, somente se indicado como facilitador; participação sem confirmação. Avaliação nas turmas indicadas entre 09 e 14/11, se aplicável.",
       "12 ou 13/11, 14h–18h — formação ENADE recomendada, se optar por participar; preparar questão objetiva impressa."
+    ],
+    "Economia Matemática 1 — avaliações confirmadas": [
+      "06/11/2026 — teste de gráficos.",
+      "10/11/2026 — teste de integrais.",
+      "13/11/2026 — P2 de derivadas.",
+      "24/11/2026 — P3 de integrais.",
+      "Datas confirmadas pelo professor em 06/11; não equivalem a registro de avaliações já aplicadas."
     ]
   },
   "a_fazer": [
     "Mackenzie — formação ENADE em 12 ou 13/11, 14h–18h: inscrição e questão objetiva impressa somente se optar por participar.",
     "Mackenzie — nova solicitação de 05/11 sobre vista de prova: verificar participação e orientar eventual atendimento posterior.",
-    "Mackenzie — novas mensagens de 05/11: confirmar datas e quantidade de questões das avaliações mencionadas para 06, 10, 13 e 24/11; conferir Moodle e responder.",
+    "Economia Matemática 1 — datas de avaliações confirmadas e consolidadas; conferir publicação no Moodle e responder sobre quantidade de questões, ainda não informada.",
     "Mackenzie — CPA: verificar indicação como facilitador e situação do encontro com prazo original de 05/11; se aplicável, organizar avaliação docente de 09 a 14/11.",
     "FEI — nova solicitação de 30/10: identificar atividade e publicar gabarito no Moodle, se ainda pendente.",
     "Mackenzie — CADI: enviar dados existentes de P&D de 2026/1 com prazo original de 27/10, já encerrado; verificar possibilidade de entrega tardia se aplicável; dispensada resposta se não houver dados.",
@@ -213,7 +219,7 @@
   "comunicacoes": {
     "E-mail": [
       "Fonte: briefing de 06/11 às 06h31; sem nova consulta direta nesta atualização.",
-      "Mackenzie — novas mensagens de 05/11 sobre avaliações de 06, 10, 13 e 24/11 e quantidade de questões: confirmar programação e responder.",
+      "Economia Matemática 1 — datas das quatro avaliações confirmadas pelo professor e consolidadas na seção de avaliações. Quantidade de questões permanece sem informação.",
       "Mackenzie — nova mensagem sobre vista de prova de 05/11: verificar necessidade de atendimento posterior. Dados pessoais omitidos.",
       "Mackenzie — formação ENADE recomendada para 12 ou 13/11, 14h–18h. Se participar, inscrever-se e levar questão objetiva preparada e impressa.",
       "FEI — licença institucional MATLAB, Simulink, MATLAB Online e Copilot disponível para uso acadêmico, inclusive em computador pessoal; informativo.",
