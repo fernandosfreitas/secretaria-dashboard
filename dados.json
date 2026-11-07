@@ -4,7 +4,7 @@
   "prioridades": [
     {
       "titulo": "Avaliações de hoje — 06/11",
-      "detalhe": "Economia Matemática 1: teste de gráficos. TOI W e J: teste de integrais. Programação confirmada pelo professor; aplicação ainda não registrada."
+      "detalhe": "Economia Matemática 1: teste de gráficos. TOI W e J: teste de integrais aplicado em 06/11, com conteúdo até a regra de substituição."
     },
     {
       "titulo": "Responder à nova solicitação de vista de prova",
@@ -12,7 +12,7 @@
     },
     {
       "titulo": "Preparar MAC210 e TOI",
-      "detalhe": "MAC210: iniciar integrais. TOI W e J: aplicar teste sobre integrais; turma J também terá vista de prova. Economia Matemática 1: gráficos e concavidade, caso não haja avaliação."
+      "detalhe": "MAC210: iniciar integrais. TOI W e J: teste de integrais aplicado em 06/11; realização da vista de prova da turma J não confirmada. Economia Matemática 1: gráficos e concavidade, caso não haja avaliação."
     }
   ],
   "agenda": [
@@ -44,8 +44,8 @@
   ],
   "atividades": {
     "Preparação de aulas": [
-      "TOI W — 05/11: vista de prova, funções compostas e integração por substituição. Em 06/11: aplicação prevista de teste sobre integrais.",
-      "TOI J — 05/11: funções compostas e integração por substituição, sem vista de prova. Em 06/11: vista de prova e aplicação prevista de teste sobre integrais.",
+      "TOI W — 06/11: teste sobre integrais aplicado, com conteúdo até a regra de substituição. Próximo conteúdo permanece conforme planejamento, ainda não registrado como ministrado.",
+      "TOI J — 06/11: teste sobre integrais aplicado, com conteúdo até a regra de substituição. Próximo conteúdo não informado.",
       "Economia Matemática 2 — 05/11: vista de prova. Próxima aula: integração de funções compostas e regra de substituição.",
       "MAM130 — 27/10: programação linear com resolução no GeoGebra. Próxima aula: resolver exercício manualmente e depois mostrar no GeoGebra.",
       "MAC200 — 27/10: construção de gráficos com primeira e segunda derivadas. Próxima aula: iniciar integrais.",
@@ -59,7 +59,6 @@
       "MAE120"
     ],
     "Próxima prova": [
-      "06/11 — TOI turmas W e J: aplicação de teste sobre integrais prevista e confirmada pelo professor; aplicação ainda não registrada como realizada.",
       "TOI W — planejamento: teste e aplicações econômicas em 19/11; prova em 26/11; teste em 27/11."
     ],
     "Calendário Mackenzie — próximos marcos": [
@@ -82,6 +81,8 @@
       "18:00–19:00 — conferir materiais e avaliação de TOI, preservando margem até 19:20."
     ],
     "Registro de aula": [
+      "06/11/2026 — TOI turma J: aplicação do teste sobre integrais; conteúdo até a regra de substituição.",
+      "06/11/2026 — TOI turma W: aplicação do teste sobre integrais; conteúdo até a regra de substituição.",
       "05/11/2026 — TOI turma W: vista de prova; em seguida, integração de funções compostas e regra de integração por substituição.",
       "05/11/2026 — TOI turma J: integração de funções compostas e regra de integração por substituição. Vista de prova adiada para 06/11.",
       "05/11/2026 — Economia Matemática 2: vista de prova. Próxima aula: integração de funções compostas e regra de substituição.",
@@ -131,7 +132,7 @@
     "TOI — turma W — previsão das próximas aulas": [
       "Planejamento informado pelo professor em 31/10/2026. As datas abaixo são previsões; não representam aulas já ministradas ou avaliações já aplicadas.",
       "05/11/2026 — realizada vista de prova e integração de funções compostas por substituição; ver Diário de Aula.",
-      "06/11/2026 — teste sobre integrais, conforme correção do professor.",
+      "06/11/2026 — realizado teste sobre integrais, com conteúdo até a regra de substituição.",
       "12/11/2026 — Não tem aula.",
       "13/11/2026 — Integral definida.",
       "19/11/2026 — Teste / Aplicações de integrais definidas na economia.",
