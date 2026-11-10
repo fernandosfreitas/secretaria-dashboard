@@ -44,6 +44,7 @@
   ],
   "atividades": {
     "Preparação de aulas": [
+      "Economia Matemática 1 — 10/11: teste de integrais até integração por partes aplicado; ao final, integrais de funções compostas. Próxima aula: continuar integrais de funções compostas a partir do exemplo 4.",
       "TOI W — 06/11: teste sobre integrais aplicado, com conteúdo até a regra de substituição. Próximo conteúdo permanece conforme planejamento, ainda não registrado como ministrado.",
       "TOI J — 06/11: teste sobre integrais aplicado, com conteúdo até a regra de substituição. Próximo conteúdo não informado.",
       "Economia Matemática 2 — 05/11: vista de prova. Próxima aula: integração de funções compostas e regra de substituição.",
@@ -51,7 +52,6 @@
       "MAC200 — 27/10: construção de gráficos com primeira e segunda derivadas. Próxima aula: iniciar integrais.",
       "MAG120 — 28/10: exercícios de posições relativas entre retas. Próxima aula: exercícios de plano.",
       "MAE120 — 28/10: exercícios de testes de hipótese para média. Próxima aula: testes de hipótese para duas populações.",
-      "Economia Matemática 1 — 26/10: gráficos e derivadas de segunda ordem. Próxima aula: fazer o gráfico com estudo da concavidade.",
       "Economia Matemática 1 (EM I) — questionário de derivadas com 20 questões cadastradas no Moodle em 10/10/2026 (concluído).",
       "MAC210 — 30/10/2026: gráficos (aula realizada). Próxima aula: integrais. Regra da cadeia e diferencial já ministrados, conforme confirmação do professor."
     ],
@@ -81,6 +81,7 @@
       "18:00–19:00 — conferir materiais e avaliação de TOI, preservando margem até 19:20."
     ],
     "Registro de aula": [
+      "10/11/2026 — Economia Matemática 1: aplicação do teste de integrais, com conteúdo até integração por partes. Ao final da aula, apresentação de integrais de funções compostas. Próxima aula: continuar a partir do exemplo 4.",
       "06/11/2026 — TOI turma J: aplicação do teste sobre integrais; conteúdo até a regra de substituição.",
       "06/11/2026 — TOI turma W: aplicação do teste sobre integrais; conteúdo até a regra de substituição.",
       "05/11/2026 — TOI turma W: vista de prova; em seguida, integração de funções compostas e regra de integração por substituição.",
@@ -151,10 +152,10 @@
     ],
     "Economia Matemática 1 — avaliações confirmadas": [
       "06/11/2026 — teste de gráficos.",
-      "10/11/2026 — teste de integrais.",
+      "10/11/2026 — teste de integrais aplicado; conteúdo até integração por partes.",
       "13/11/2026 — P2 de derivadas.",
       "24/11/2026 — P3 de integrais.",
-      "Datas confirmadas pelo professor em 06/11; não equivalem a registro de avaliações já aplicadas."
+      "Datas confirmadas pelo professor; aplicação do teste de 10/11 registrada como realizada. Demais avaliações mantêm seus registros próprios."
     ]
   },
   "a_fazer": [
